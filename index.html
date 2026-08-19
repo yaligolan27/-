@@ -111,6 +111,7 @@ section.block{background:var(--bg2);border:1px solid var(--line);border-radius:1
 .block h2{margin:0 0 4px;font-size:19px;font-weight:700}
 .block .hint{color:var(--ink3);font-size:13px;margin:0 0 12px}
 .ovgrid{display:grid;grid-template-columns:minmax(230px,290px) 1fr;gap:20px;align-items:start}
+.ovgrid>*{min-width:0}
 @media (max-width:860px){.ovgrid{grid-template-columns:1fr}}
 #map{position:relative;border-radius:14px;border:1px solid var(--line);overflow:hidden;background:var(--sea1)}
 #map svg{width:100%;height:auto;display:block;touch-action:none;cursor:grab}
