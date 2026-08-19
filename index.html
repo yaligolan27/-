@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>מיפוי האקדמיה הישראלית בתחום החלל</title>
+<meta name="description" content="מפה אינטראקטיבית של כל המעבדות, התארים, הקורסים והמרכזים הקשורים לחלל במוסדות ההשכלה הגבוהה בישראל">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛰️</text></svg>">
+<link rel="stylesheet" href="fonts.css">
+<style>
+:root{
+  --bg:#F9FDFF; --bg2:#FFFFFF; --bg3:#EEF5FB; --line:#D8E4F0;
+  --ink:#14213D; --ink2:#4A5B78; --ink3:#7A8AA6;
+  --accent:#1E6FC0; --accent-ink:#FFFFFF;
+  --c-lab:#1E6FC0; --c-deg:#9A6410; --c-crs:#058C63; --c-ctr:#6C48BE; --c-spc:#C13B6B;
+  --ok:#1D7A4F; --ok-bg:#E3F4EB; --warn:#8A6414; --warn-bg:#FBF1D9;
+  --bad:#B3324B; --bad-bg:#FBE3E9;
+  --shadow:0 10px 30px rgba(20,33,61,.10);
+  --horizon:linear-gradient(90deg,#02618C,#4FB2EC,#1779B5,#033A62);
+  --sea1:#BBDDF2; --sea2:#8FC4E8; --land-n:#D6E4C5; --land-c:#EADFC0; --land-s:#EBD9AE;
+  --coast:#7FA8C9; --border-dash:#9FB4C9;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#111B32; --bg2:#1E273D; --bg3:#26314C; --line:#33405F;
+  --ink:#F9FDFF; --ink2:#B9C6DD; --ink3:#8291AF;
+  --accent:#3898EC; --accent-ink:#0A1428;
+  --c-lab:#3898EC; --c-deg:#C4841C; --c-crs:#149578; --c-ctr:#8D67D6; --c-spc:#E06C96;
+  --ok:#4CC08A; --ok-bg:#173425; --warn:#E0B65A; --warn-bg:#38301A;
+  --bad:#F08CA3; --bad-bg:#3A1B25;
+  --shadow:0 12px 34px rgba(0,0,0,.42);
+  --sea1:#12293F; --sea2:#0E3A5C; --land-n:#26372E; --land-c:#37342A; --land-s:#3B3526;
+  --coast:#3E6787; --border-dash:#41546B;
+}}
+:root[data-theme="dark"]{
+  --bg:#111B32; --bg2:#1E273D; --bg3:#26314C; --line:#33405F;
+  --ink:#F9FDFF; --ink2:#B9C6DD; --ink3:#8291AF;
+  --accent:#3898EC; --accent-ink:#0A1428;
+  --c-lab:#3898EC; --c-deg:#C4841C; --c-crs:#149578; --c-ctr:#8D67D6; --c-spc:#E06C96;
+  --ok:#4CC08A; --ok-bg:#173425; --warn:#E0B65A; --warn-bg:#38301A;
+  --bad:#F08CA3; --bad-bg:#3A1B25;
+  --shadow:0 12px 34px rgba(0,0,0,.42);
+  --sea1:#12293F; --sea2:#0E3A5C; --land-n:#26372E; --land-c:#37342A; --land-s:#3B3526;
+  --coast:#3E6787; --border-dash:#41546B;
+}
+:root[data-theme="light"]{
+  --bg:#F9FDFF; --bg2:#FFFFFF; --bg3:#EEF5FB; --line:#D8E4F0;
+  --ink:#14213D; --ink2:#4A5B78; --ink3:#7A8AA6;
+  --accent:#1E6FC0; --accent-ink:#FFFFFF;
+  --c-lab:#1E6FC0; --c-deg:#9A6410; --c-crs:#058C63; --c-ctr:#6C48BE; --c-spc:#C13B6B;
+  --ok:#1D7A4F; --ok-bg:#E3F4EB; --warn:#8A6414; --warn-bg:#FBF1D9;
+  --bad:#B3324B; --bad-bg:#FBE3E9;
+  --shadow:0 10px 30px rgba(20,33,61,.10);
+  --sea1:#BBDDF2; --sea2:#8FC4E8; --land-n:#D6E4C5; --land-c:#EADFC0; --land-s:#EBD9AE;
+  --coast:#7FA8C9; --border-dash:#9FB4C9;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Assistant','Segoe UI',Arial,sans-serif;font-size:16px;line-height:1.55;direction:rtl}
+a{color:var(--accent)}
+button{font:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
+.ltr{direction:ltr;unicode-bidi:embed}
+
+/* ---------- header ---------- */
+header{padding:30px clamp(16px,4vw,48px) 0}
+.headrow{display:flex;align-items:flex-start;gap:18px;flex-wrap:wrap}
+.headtxt{flex:1 1 420px;min-width:280px}
+.logos{display:flex;align-items:center;gap:20px;padding-top:8px}
+.logos img{height:64px;width:auto;max-width:130px;object-fit:contain;filter:drop-shadow(0 2px 6px rgba(20,33,61,.18))}
+.logos img.rakia{height:44px}
+.eyebrow{font-weight:600;letter-spacing:.14em;font-size:12px;color:var(--accent);text-transform:uppercase}
+h1{font-weight:800;font-size:clamp(28px,4.6vw,46px);line-height:1.12;margin:6px 0 8px;text-wrap:balance;letter-spacing:-.01em}
+.sub{color:var(--ink2);max-width:64ch;margin:0 0 20px;font-size:17px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(116px,1fr));gap:10px;max-width:940px}
+.kpi{background:var(--bg2);border:1px solid var(--line);border-radius:14px;padding:12px 16px}
+.kpi b{display:block;font-size:clamp(22px,3vw,30px);font-weight:800;font-variant-numeric:tabular-nums;line-height:1.15}
+.kpi span{color:var(--ink3);font-size:13px;font-weight:600}
+.horizon{height:3px;background:var(--horizon);border-radius:2px;margin:26px 0 0;opacity:.85}
+
+/* ---------- controls ---------- */
+.controls{position:sticky;top:0;z-index:30;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);padding:12px clamp(16px,4vw,48px);display:flex;flex-direction:column;gap:10px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{border:1px solid var(--line);background:var(--bg2);color:var(--ink2);border-radius:999px;padding:6px 14px;font-weight:600;font-size:14px;transition:.15s}
+.chip:hover{border-color:var(--accent);color:var(--ink)}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.chip.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:700}
+.chip.primary:hover{filter:brightness(1.12);color:var(--accent-ink)}
+.chip.danger{border-color:var(--bad);color:var(--bad)}
+.chip.danger[aria-pressed="true"]{background:var(--bad);color:#fff}
+.subchips{gap:6px}
+.subchips .chip{font-size:12.5px;padding:4px 12px;color:var(--ink3)}
+.subchips .lbl{font-size:12px;color:var(--ink3);font-weight:700;align-self:center;margin-inline-end:2px}
+.row2{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.search{flex:1 1 260px;min-width:200px;position:relative}
+.search input{width:100%;padding:9px 38px 9px 12px;border-radius:999px;border:1px solid var(--line);background:var(--bg2);color:var(--ink);font:inherit}
+.search input::placeholder{color:var(--ink3)}
+.search svg{position:absolute;right:13px;top:50%;transform:translateY(-50%);width:16px;height:16px;stroke:var(--ink3);fill:none;stroke-width:2}
+select{padding:9px 12px;border-radius:999px;border:1px solid var(--line);background:var(--bg2);color:var(--ink);font:inherit;max-width:230px}
+.tabs{display:flex;gap:0;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--bg2);flex-wrap:wrap}
+.tabs button{border:0;background:transparent;color:var(--ink2);padding:8px 14px;font-weight:600;font-size:14px}
+.tabs button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.count{color:var(--ink2);font-size:14px;font-weight:600;margin-inline-start:auto;white-space:nowrap}
+.active-chips{display:flex;flex-wrap:wrap;gap:6px}
+.active-chips .chip{font-size:12.5px;padding:3px 10px;background:var(--bg3);border-color:transparent;color:var(--ink2)}
+.active-chips .chip b{margin-inline-start:6px;font-weight:800}
+.suggest{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:13px;color:var(--ink3)}
+
+/* ---------- main / overview ---------- */
+main{padding:22px clamp(16px,4vw,48px) 40px;max-width:1460px;margin-inline:auto}
+section.block{background:var(--bg2);border:1px solid var(--line);border-radius:18px;padding:18px 20px;margin-bottom:22px}
+.block h2{margin:0 0 4px;font-size:19px;font-weight:700}
+.block .hint{color:var(--ink3);font-size:13px;margin:0 0 12px}
+.ovgrid{display:grid;grid-template-columns:minmax(230px,290px) 1fr;gap:20px;align-items:start}
+@media (max-width:860px){.ovgrid{grid-template-columns:1fr}}
+#map{position:relative;border-radius:14px;border:1px solid var(--line);overflow:hidden;background:var(--sea1)}
+#map svg{width:100%;height:auto;display:block;touch-action:none;cursor:grab}
+#map svg.panning{cursor:grabbing}
+#map .bub{fill:var(--accent);fill-opacity:.88;stroke:var(--bg2);stroke-width:.7;cursor:pointer;transition:fill-opacity .15s}
+#map .bub:hover{fill-opacity:1;stroke:var(--ink)}
+#map .bub.dim{fill-opacity:.25}
+#map .bub.sel{fill:var(--c-deg);fill-opacity:.97}
+#map .blbl{fill:#fff;font-weight:800;text-anchor:middle;pointer-events:none;font-variant-numeric:tabular-nums}
+#map .mlbl{fill:var(--ink);font-weight:700;pointer-events:none;text-anchor:middle;paint-order:stroke;stroke:var(--bg2);stroke-width:1.6px;stroke-linejoin:round}
+#map .mlbl.dim{opacity:.3}
+#map .sealbl{fill:var(--coast);font-weight:600;pointer-events:none;opacity:.85;letter-spacing:.06em}
+.mapbtns{position:absolute;top:10px;inset-inline-end:10px;display:flex;flex-direction:column;gap:6px;z-index:5}
+.mapbtns button{width:32px;height:32px;border-radius:999px;border:1px solid var(--line);background:var(--bg2);color:var(--ink);font-size:15px;font-weight:700}
+.mapbtns button:hover{border-color:var(--accent)}
+.legend{display:flex;flex-wrap:wrap;gap:14px;margin:0 0 10px;font-size:13.5px;color:var(--ink2);font-weight:600}
+.legend i{display:inline-block;width:11px;height:11px;border-radius:3px;margin-inline-start:6px;vertical-align:-1px}
+#chart{width:100%;overflow-x:auto}
+#chart svg{display:block;width:100%;min-width:480px}
+#chart .seg{cursor:pointer}
+#chart .seg:hover{filter:brightness(1.18)}
+#chart text{font-family:inherit}
+.tooltip{position:fixed;z-index:80;background:var(--ink);color:var(--bg);padding:7px 11px;border-radius:9px;font-size:13px;font-weight:600;pointer-events:none;opacity:0;transition:opacity .12s;max-width:260px;box-shadow:var(--shadow)}
+
+/* ---------- cards ---------- */
+.resbar{display:flex;align-items:center;gap:8px;margin:0 0 14px;flex-wrap:wrap}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:14px}
+.card{position:relative;background:var(--bg2);border:1px solid var(--line);border-radius:16px;padding:16px 18px;display:flex;flex-direction:column;gap:8px;text-align:start;color:var(--ink);transition:.15s;border-inline-start:4px solid var(--tc,var(--accent))}
+.card:hover{transform:translateY(-2px);box-shadow:var(--shadow);border-color:var(--accent);border-inline-start-color:var(--tc,var(--accent))}
+.card .tags{display:flex;flex-wrap:wrap;gap:6px}
+.tag{font-size:11.5px;font-weight:700;border-radius:999px;padding:2px 9px;letter-spacing:.02em}
+.tag.type{color:#fff;background:var(--tc,var(--accent))}
+.tag.dom{background:var(--bg3);color:var(--ink2)}
+.tag.deg{background:color-mix(in srgb,var(--c-deg) 15%,var(--bg2));color:var(--c-deg)}
+.tag.warn{background:var(--warn-bg);color:var(--warn)}
+.tag.ok{background:var(--ok-bg);color:var(--ok)}
+.tag.bad{background:var(--bad-bg);color:var(--bad)}
+.tag.rakia{background:color-mix(in srgb,var(--accent) 14%,var(--bg2));color:var(--accent)}
+.tag.new{background:color-mix(in srgb,var(--c-crs) 18%,var(--bg2));color:var(--c-crs);font-weight:800}
+.tag.local{background:color-mix(in srgb,var(--c-spc) 16%,var(--bg2));color:var(--c-spc)}
+.card h3{margin:0;font-size:16.5px;font-weight:700;line-height:1.3}
+.card .inst{color:var(--ink2);font-size:13.5px}
+.card .teaser{color:var(--ink2);font-size:13.5px;line-height:1.45;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card .person{color:var(--ink3);font-size:13px;margin-top:auto}
+.card .editbtns{position:absolute;top:10px;inset-inline-end:10px;display:none;gap:6px}
+body.edit-mode .card .editbtns{display:flex}
+.card .editbtns button{width:28px;height:28px;border-radius:999px;border:1px solid var(--line);background:var(--bg2);color:var(--ink2);font-size:13px;line-height:1}
+.card .editbtns button:hover{border-color:var(--accent);color:var(--accent)}
+.card .editbtns button.del:hover{border-color:var(--bad);color:var(--bad)}
+.addcard{display:none;border:2px dashed var(--line);border-radius:16px;min-height:120px;background:transparent;color:var(--ink3);font-weight:700;font-size:15px}
+.addcard:hover{border-color:var(--accent);color:var(--accent)}
+body.edit-mode .addcard{display:block}
+.editbar{display:none;background:color-mix(in srgb,var(--c-spc) 8%,var(--bg2));border:1px solid color-mix(in srgb,var(--c-spc) 30%,var(--line));border-radius:14px;padding:10px 16px;margin:0 0 14px;align-items:center;gap:10px;flex-wrap:wrap;font-size:13.5px;color:var(--ink2)}
+body.edit-mode .editbar{display:flex}
+.more{display:block;margin:18px auto 0;border:1px solid var(--line);background:var(--bg2);color:var(--ink);border-radius:999px;padding:10px 26px;font-weight:700}
+.more:hover{border-color:var(--accent)}
+.empty{text-align:center;color:var(--ink3);padding:40px 0;font-size:15px}
+
+/* ---------- table ---------- */
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:14px;background:var(--bg2)}
+table{border-collapse:collapse;width:100%;min-width:1000px;font-size:13.5px}
+th,td{padding:8px 12px;text-align:start;border-bottom:1px solid var(--line);vertical-align:top}
+th{position:sticky;top:0;background:var(--bg3);font-size:12.5px;color:var(--ink2);letter-spacing:.03em;white-space:nowrap}
+tr:hover td{background:var(--bg3)}
+td a{white-space:nowrap}
+
+/* ---------- drawer ---------- */
+.backdrop{position:fixed;inset:0;background:rgba(5,10,25,.55);z-index:60;opacity:0;pointer-events:none;transition:.2s}
+.backdrop.open{opacity:1;pointer-events:auto}
+.drawer{position:fixed;top:0;bottom:0;right:0;width:min(620px,94vw);background:var(--bg);z-index:70;transform:translateX(105%);transition:transform .25s ease;overflow-y:auto;border-left:1px solid var(--line);box-shadow:var(--shadow);visibility:hidden}
+.drawer.open{transform:none;visibility:visible}
+.drawer .inner{padding:26px clamp(18px,4vw,34px) 40px}
+.drawer .crumbs{color:var(--ink3);font-size:13px;margin:0 0 10px}
+.drawer h2{font-size:24px;font-weight:800;line-height:1.2;margin:8px 0 12px;text-wrap:balance}
+.drawer .close{position:sticky;top:14px;float:left;border:1px solid var(--line);background:var(--bg2);color:var(--ink);border-radius:999px;width:38px;height:38px;font-size:17px}
+.drawer .sec{margin:20px 0}
+.drawer .sec h4{margin:0 0 6px;font-size:13px;letter-spacing:.1em;color:var(--accent);font-weight:700}
+.drawer .sec p{margin:0;font-size:16px;max-width:62ch}
+.drawer .sec.people p{font-weight:600}
+.drawer .why{border-inline-start:3px solid var(--accent);padding-inline-start:14px}
+.drawer .warnbox{background:var(--warn-bg);color:var(--warn);border-radius:12px;padding:12px 15px;font-size:14px;margin:16px 0}
+.drawer .badbox{background:var(--bad-bg);color:var(--bad);border-radius:12px;padding:12px 15px;font-size:14px;margin:16px 0}
+.drawer .okbox{background:var(--ok-bg);color:var(--ok);border-radius:12px;padding:10px 15px;font-size:13.5px;margin:16px 0}
+.drawer .facts{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+.drawer .fact{background:var(--bg3);border-radius:10px;padding:6px 12px;font-size:13.5px;color:var(--ink2)}
+.drawer .fact b{color:var(--ink)}
+.drawer .rel{display:flex;flex-wrap:wrap;gap:8px}
+.drawer .relchip{border:1px solid var(--line);background:var(--bg2);color:var(--ink2);border-radius:10px;padding:7px 12px;font-size:13.5px;font-weight:600;text-align:start;max-width:100%}
+.drawer .relchip:hover{border-color:var(--accent);color:var(--accent)}
+.drawer .relchip small{display:block;color:var(--ink3);font-weight:400}
+.drawer .cta{display:inline-block;background:var(--accent);color:var(--accent-ink);font-weight:700;border-radius:999px;padding:11px 26px;text-decoration:none;margin-top:6px}
+.drawer .src{color:var(--ink3);font-size:12.5px;margin-top:10px;overflow-wrap:anywhere}
+
+/* ---------- edit modal ---------- */
+.modal{position:fixed;inset:0;z-index:90;display:none;align-items:flex-start;justify-content:center;overflow-y:auto;background:rgba(5,10,25,.55);padding:4vh 14px}
+.modal.open{display:flex}
+.modal .box{background:var(--bg);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow);width:min(680px,100%);padding:24px clamp(16px,3vw,30px);margin-bottom:6vh}
+.modal h2{margin:0 0 4px;font-size:21px}
+.modal .mhint{color:var(--ink3);font-size:13px;margin:0 0 16px}
+.fgrid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.fgrid .full{grid-column:1/-1}
+@media (max-width:560px){.fgrid{grid-template-columns:1fr}}
+.field label{display:block;font-size:12.5px;font-weight:700;color:var(--ink2);margin-bottom:4px}
+.field label em{color:var(--bad);font-style:normal}
+.field input,.field select,.field textarea{width:100%;padding:8px 11px;border-radius:10px;border:1px solid var(--line);background:var(--bg2);color:var(--ink);font:inherit;font-size:14px}
+.field textarea{min-height:74px;resize:vertical}
+.mfoot{display:flex;gap:10px;margin-top:18px;align-items:center;flex-wrap:wrap}
+.btn{border:1px solid var(--line);background:var(--bg2);color:var(--ink);border-radius:999px;padding:9px 22px;font-weight:700}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn.primary:hover{filter:brightness(1.1)}
+.btn.danger{border-color:var(--bad);color:var(--bad)}
+.formerr{color:var(--bad);font-size:13px;font-weight:600}
+
+footer{border-top:1px solid var(--line);color:var(--ink3);font-size:13.5px;padding:22px clamp(16px,4vw,48px);display:flex;flex-wrap:wrap;gap:8px;justify-content:space-between}
+@media (prefers-reduced-motion: reduce){*{transition:none!important;animation:none!important}}
+@media (max-width:640px){
+  .kpis{grid-template-columns:repeat(2,1fr)}
+  .count{margin-inline-start:0;width:100%}
+  .logos img{height:48px}.logos img.rakia{height:34px}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="headrow">
+    <div class="headtxt">
+      <div class="eyebrow">אקדמיה × חלל · ישראל</div>
+      <h1>מיפוי האקדמיה הישראלית בתחום החלל</h1>
+      <p class="sub">כל המעבדות, התארים, הקורסים והמרכזים שקשורים לחלל בכל מוסדות ההשכלה הגבוהה בישראל — במפה אחת, עם קישור למקור רשמי בכל שורה. תוכניות שאותרו במיפוי הידני של צוות רקיע מסומנות בתג „מיפוי רקיע".</p>
+    </div>
+    <div class="logos">
+      <img class="halal" src="assets/logo-halal.png" alt="מנהלת החלל" onerror="this.onerror=null;this.src='assets/logo-halal-placeholder.svg'">
+      <img class="rakia" src="assets/logo-rakia.png" alt="רקיע" onerror="this.onerror=null;this.src='assets/logo-rakia-placeholder.svg'">
+    </div>
+  </div>
+  <div class="kpis" id="kpis"></div>
+  <div class="horizon" role="presentation"></div>
+</header>
+
+<div class="controls">
+  <div class="row2">
+    <div class="search"><input id="q" type="search" placeholder='חיפוש חכם — למשל: "טילים", "צילומי לוויין בדרום" או "בינה מלאכותית"' aria-label="חיפוש">
+      <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg></div>
+    <div class="tabs" id="typeTabs" role="group" aria-label="סינון לפי סוג יחידה"></div>
+    <select id="instSel" aria-label="סינון לפי מוסד"></select>
+    <select id="degSel" aria-label="סינון לפי סוג תואר">
+      <option value="">כל התארים</option>
+      <option value="תואר ראשון">תואר ראשון</option>
+      <option value="תארים מתקדמים">תארים מתקדמים</option>
+      <option value="דוקטורט">דוקטורט</option>
+      <option value="פתוח לכולם">פתוח לכולם</option>
+    </select>
+  </div>
+  <div class="chips" id="domChips" role="group" aria-label="סינון לפי תחום חלל"></div>
+  <div class="chips subchips" id="extraChips" role="group" aria-label="סינונים נוספים"></div>
+  <div class="active-chips" id="activeChips"></div>
+  <div class="suggest" id="suggest" hidden></div>
+</div>
+
+<main>
+  <section class="block">
+    <div class="ovhead" style="display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:6px">
+      <h2 style="margin:0">מפת הפעילות</h2>
+      <span class="hint" style="margin:0">לחיצה על מוסד במפה או בתרשים — סינון · גודל העיגול = מספר היחידות לפי הסינון הנוכחי</span>
+    </div>
+    <div class="ovgrid">
+      <div id="map" aria-label="מפת מוסדות גאוגרפית"></div>
+      <div>
+        <div class="legend" id="legend"></div>
+        <div id="chart"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="results">
+    <div class="block" id="instSum" hidden style="border-inline-start:4px solid var(--accent)"></div>
+    <div class="editbar" id="editbar"></div>
+    <div class="resbar">
+      <span class="count" id="count" aria-live="polite"></span>
+      <span style="flex:1"></span>
+      <button class="chip" id="editToggle" aria-pressed="false">✎ עריכה</button>
+      <button class="chip" id="viewToggle" aria-pressed="false">⊞ תצוגת טבלה</button>
+      <button class="chip primary" id="xlsBtn">⬇ הורדה לאקסל</button>
+      <button class="chip" id="csvBtn">CSV</button>
+    </div>
+    <div class="grid" id="grid"></div>
+    <div class="tablewrap" id="tablewrap" hidden></div>
+    <div class="empty" id="empty" hidden>לא נמצאו יחידות מתאימות. נסו לנסח אחרת או להסיר סינון.</div>
+    <button class="more" id="more" hidden>הצגת יחידות נוספות</button>
+  </section>
+</main>
+
+<div class="backdrop" id="backdrop"></div>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="dTitle"></aside>
+<div class="tooltip" id="tip" role="presentation"></div>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="mTitle">
+  <div class="box">
+    <h2 id="mTitle">הוספת יחידה</h2>
+    <p class="mhint">היחידה תישמר מקומית בדפדפן שלך. כדי לשתף — השתמשו ב„ייצוא גיבוי" בסרגל העריכה.</p>
+    <form id="editForm">
+      <div class="fgrid">
+        <div class="field"><label>סוג היחידה <em>*</em></label><select name="type" required></select></div>
+        <div class="field"><label>מוסד <em>*</em></label><input name="inst" list="instList" required></div>
+        <div class="field full"><label>שם היחידה <em>*</em></label><input name="name" required placeholder='למשל: מעבדה לחקר ננו-לוויינים (Nanosatellite Research Lab)'></div>
+        <div class="field full"><label>פקולטה / בית ספר</label><input name="fac"></div>
+        <div class="field"><label>תחום חלל ראשי <em>*</em></label><select name="dom" required></select></div>
+        <div class="field"><label>תחום משני (לא חובה)</label><select name="dom2"><option value="">—</option></select></div>
+        <div class="field"><label>סוג תואר</label><select name="degree">
+          <option value="">—</option><option>תואר ראשון</option><option>תארים מתקדמים</option>
+          <option>תואר ראשון + מתקדמים</option><option>דוקטורט</option><option>פתוח לכולם</option></select></div>
+        <div class="field"><label>חוקר/ת · מרצה מוביל/ה</label><input name="person"></div>
+        <div class="field"><label>מספר קורס</label><input name="code" class="ltr"></div>
+        <div class="field"><label>נ"ז</label><input name="credits" class="ltr"></div>
+        <div class="field full"><label>דרישות קדם (שמות/מספרי קורסים)</label><input name="prereq"></div>
+        <div class="field full"><label>קישור לעמוד רשמי <em>*</em></label><input name="url" type="url" required class="ltr" placeholder="https://"></div>
+        <div class="field"><label>שנת הקמה</label><input name="year" type="number" min="1950" max="2035" class="ltr"></div>
+        <div class="field"><label>סטטוס</label><select name="status">
+          <option value="active">פעיל</option><option value="uncertain">לבדיקה</option><option value="closed">נסגר</option></select></div>
+        <div class="field full"><label>מה זה? (2–4 משפטים פשוטים)</label><textarea name="what"></textarea></div>
+        <div class="field full"><label>למה זה חשוב? (משפט אחד)</label><textarea name="why" style="min-height:52px"></textarea></div>
+        <div class="field"><label><input type="checkbox" name="rakia" style="width:auto;margin-inline-end:6px">אותר במיפוי רקיע</label></div>
+        <div class="field"><label><input type="checkbox" name="core" checked style="width:auto;margin-inline-end:6px">ליבת חלל (ולא רק תחום תומך)</label></div>
+      </div>
+      <div class="mfoot">
+        <button type="submit" class="btn primary">שמירה</button>
+        <button type="button" class="btn" id="mCancel">ביטול</button>
+        <span class="formerr" id="formErr"></span>
+      </div>
+    </form>
+    <datalist id="instList"></datalist>
+  </div>
+</div>
+
+<footer>
+  <span>המיפוי הוכן עבור משימת רקיע · מנהלת החלל · הפורום הישראלי לחלל</span>
+  <span id="footMeta"></span>
+</footer>
+
+<script src="data.js"></script>
+<script src="map-data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
