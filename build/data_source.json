@@ -26,8 +26,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד המעבדה פעיל; פעילות מתועדת 2025 — מחקר המעבדה זכה בפרס Gemunder לטכנולוגיות חלל-ביטחון (2025); גורפיל ממשיך כמנהל",
   "prereqIds": []
  },
  {
@@ -57,8 +57,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "uncertain",
+  "statusNote": "עמוד המעבדה עדיין מוצג באתר הפקולטה וב-ASRI, אך המייסד איגל קרונהאוס עזב לתעשייה (מייסד ומנכ\"ל Space Plasmatics מ-2021, לפי לינקדאין וכתבת כלכליסט: 'עד לאחרונה לימד בטכניון') ואינו מופיע בדפי הסגל הנוכחיים; לא אותר ראש מעבדה נוכחי — פעילות שוטפת לא מאומתת",
   "prereqIds": []
  },
  {
@@ -75,7 +75,7 @@
    "רובוטיקה ומערכות חלל"
   ],
   "url": "https://aerospace.technion.ac.il/research/autonomous-navigation-and-perception-laboratory-anpl/",
-  "notes": "ניווט/תפיסה אוטונומיים, SLAM, ניווט ללא GPS; פועל/ת משנת 2015 (עמוד המעבדה הרשמי בפקולטה: \"The lab was founded by Associate Professor)",
+  "notes": "ניווט/תפיסה אוטונומיים, SLAM, ניווט ללא GPS; פועל/ת משנת 2015 (עמוד המעבדה הרשמי בפקולטה: \"The lab was founded by Associate Professor) | עדכון 8/2026: לפי עמוד המעבדה הרשמי נוסדה ב-2014 (ולא 2015); למעבדה אתר ייעודי נוסף: anpl-technion.github.io",
   "ok": true,
   "src": "ours",
   "year": 2015,
@@ -88,8 +88,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אתר המעבדה (anpl-technion.github.io) פעיל: פרסומים 2025 ושלושה בוגרי דוקטורט חדשים; אינדלמן פרופ\"ח פעיל בפקולטה",
   "prereqIds": []
  },
  {
@@ -119,8 +119,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אתר המעבדה casy.technion.ac.il פעיל; שמע (דיקן הפקולטה 2020–2023) ממשיך לעמוד בראש המעבדה לפי עמודי הפקולטה",
   "prereqIds": []
  },
  {
@@ -150,8 +150,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אתר המעבדה פעיל (connect-lab-technion.github.io) ומגייס תלמידי מחקר; המעבדה שוכנת פיזית במעבדת בקרת הטיסה פילדלפיה",
   "prereqIds": []
  },
  {
@@ -181,8 +181,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אתר המרכז frpc.net.technion.ac.il פעיל; מיכאלס מוצג כמנהל המרכז; פעילות עדכנית בתחום ההיפרסוניקה (Technion UK, 2025-2026)",
   "prereqIds": []
  },
  {
@@ -212,8 +212,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "מתחם מנהרות הרוח פעיל עם אתר ייעודי twtc.net.technion.ac.il — ארבע מנהרות (תת-קוליות, טרנסונית, על-קולית) ומעבדת טורבולנציה; משמש למחקר ולהוראה",
   "prereqIds": []
  },
  {
@@ -243,8 +243,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמודי המעבדה באתר הפקולטה פעילים כולל מודעת גיוס תלמידי מחקר; רווה מכהנת כדיקנית הפקולטה וממשיכה במחקר אווירואלסטיות (פרויקט A3TB)",
   "prereqIds": []
  },
  {
@@ -274,8 +274,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אתר המעבדה pfcl.technion.ac.il פעיל; המעבדה מארחת גם את מעבדת Connect של זלאזו",
   "prereqIds": []
  },
  {
@@ -305,8 +305,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אתר המעבדה bcukurel.net.technion.ac.il פעיל; כ-30 חוקרים וסטודנטים; חלק ממרכז טורבו ומנועי סילון ע\"ש טארק",
   "prereqIds": []
  },
  {
@@ -336,8 +336,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "המתקן פעיל: מאמר בכנס IEPC 2025 מדווח על ניסויי ביצועים של מדחפי הול שנערכו במעבדת ההנעה החשמלית של ASRI; עמוד המעבדה באתר ASRI פעיל. עם זאת, טרם מצוין ראש מעבדה קבוע מאז פטירת קפולקין (2022)",
   "prereqIds": []
  },
  {
@@ -367,8 +367,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד המעבדה באתר ASRI פעיל; ריבק מוצג כראש קבוצת אופטיקת החלל ואתרו האישי בפקולטה לפיזיקה פעיל",
   "prereqIds": []
  },
  {
@@ -398,8 +398,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אתר asri.institute פעיל על כל מדוריו; שכנר מכהן כמנהל המכון מ-2025 (עמוד הסגל ו-Wikipedia)",
   "prereqIds": []
  },
  {
@@ -416,7 +416,7 @@
    "פיזיקה ואסטרופיזיקה / אסטרונומיה"
   ],
   "url": "https://phsites.technion.ac.il/astro/group-members/faculty/",
-  "notes": "קוסמולוגיה, חורים שחורים, סופרנובות, היווצרות כוכבים; מעורבות ב-ULTRASAT, Euclid, XRISM, ATHENA",
+  "notes": "קוסמולוגיה, חורים שחורים, סופרנובות, היווצרות כוכבים; מעורבות ב-ULTRASAT, Euclid, XRISM, ATHENA | עדכון 8/2026: עמוד תחום המחקר של הפקולטה מונה גם את פרופ' עמוס אורי כחבר הקבוצה",
   "ok": true,
   "src": "ours",
   "year": null,
@@ -429,8 +429,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד הקבוצה פעיל; מופיעה בחוברת המחקר של הפקולטה לפיזיקה 2025 וגייסה פוסטדוקטורנטים ל-2025; מעורבות פעילה ב-ULTRASAT, Euclid, XRISM",
   "prereqIds": []
  },
  {
@@ -460,8 +460,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "פרופ' אמריטוס פעיל: פרסום בכנס EDHPC 2025 (עיבוד נתונים בחלל); עמוד CRIS פעיל",
   "prereqIds": []
  },
  {
@@ -491,8 +491,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "פעיל מאוד: לוויין ה-Precursor הראשון של CloudCT נשלח לשיגור מקליפורניה (יוני 2026), ו-10 לוויינים נוספים מתוכננים ל-2027 (הודעות הטכניון ו-phys.org, 2026)",
   "prereqIds": []
  },
  {
@@ -522,8 +522,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "פילין פרופסור פעיל ומנהל המעבדה לפוטוגרמטריה וסריקת לייזר; פרסומים שוטפים 2025–2026",
   "prereqIds": []
  },
  {
@@ -552,9 +552,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "עמוד תוכנית הלימודים לתואר ראשון באתר הפקולטה פעיל (כולל גרסה עברית עדכנית); קטלוג לימודי הסמכה תשפ\"ו 2025/26 זמין בפורטל; לא נמצאו סימני שינוי באשכולות",
   "prereqIds": []
  },
  {
@@ -584,8 +584,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד התארים המתקדמים מציג Astronautical Engineering כאחד מחמשת תחומי המחקר; קיים גם עמוד ייעודי aerospace.technion.ac.il/astronautics",
   "prereqIds": []
  },
  {
@@ -614,9 +614,9 @@
   "credits": "3.5",
   "prereq": "084225 דינמיקה + 084913 יסודות הנדסת חלל",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 85915 פעיל בפורטל הסטודנטים ומופיע גם בקטלוג התארים המתקדמים; קיימת גרסה מקבילה למתקדמים 086287",
   "prereqIds": [
    31
   ]
@@ -647,9 +647,9 @@
   "credits": "3",
   "prereq": "084738 תורת הבקרה + 085915 מכניקת גופים בחלל",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "קורס 086290 מופיע במאגרי הקורסים הפעילים של הטכניון (מאגר ההיסטוגרמות ותוכנית הלימודים); קורס ברמת תארים מתקדמים (סדרת 086); אין סימני סגירה",
   "prereqIds": [
    20
   ]
@@ -680,9 +680,9 @@
   "credits": "2.5",
   "prereq": "084312 זרימה דחיסה + 084913 יסודות הנדסת חלל + 114054 פיסיקה 3",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "קורס 085920 מופיע בקטלוג ובמאגרי הקורסים (מאגר סריקות); אין סימני סגירה",
   "prereqIds": [
    31
   ]
@@ -713,9 +713,9 @@
   "credits": "2.5",
   "prereq": "084213 תרמודינמיקה + 084312 זרימה דחיסה + 125001 כימיה כללית",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 85406 פעיל ב-my.technion ומופיע בקטלוג התארים המתקדמים כ-Current (8/2026)",
   "prereqIds": []
  },
  {
@@ -744,9 +744,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "עמוד הקורס 084143 פעיל ב-my.technion; משמש דרישת קדם לפרויקטי תכן בתוכנית הבוגר הנוכחית",
   "prereqIds": []
  },
  {
@@ -775,9 +775,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע בעמוד הקורסים הנוכחיים של קבוצת האסטרופיזיקה בפקולטה לפיזיקה, בהוראת פרופ' אהוד בהר",
   "prereqIds": []
  },
  {
@@ -806,9 +806,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע בעמוד הקורסים הנוכחיים של קבוצת האסטרופיזיקה, בהוראת פרופ' ערי לאור",
   "prereqIds": []
  },
  {
@@ -837,9 +837,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע בעמוד הקורסים הנוכחיים של קבוצת האסטרופיזיקה, בהוראת פרופ' עמוס אורי",
   "prereqIds": []
  },
  {
@@ -868,9 +868,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "מופיע בעמוד הקורסים הנוכחיים של קבוצת האסטרופיזיקה, בהוראת פרופ' נועם סוקר",
   "prereqIds": []
  },
  {
@@ -900,8 +900,8 @@
   "prereq": "084225 דינמיקה + 084311 בלד\"ח",
   "mandatory": "קורס בחירה",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד הקורס 84220 פעיל ב-my.technion ומופיע כדרישת קדם בקטלוג הנוכחי",
   "prereqIds": []
  },
  {
@@ -931,8 +931,8 @@
   "prereq": "084225 דינמיקה + 084311 בלד\"ח",
   "mandatory": "קורס בחירה",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד הקורס 84221 פעיל ב-my.technion ומופיע בקטלוג הלימודים תשפ\"ה",
   "prereqIds": []
  },
  {
@@ -962,8 +962,8 @@
   "prereq": "084225 דינמיקה + 084737 מערכות דינמיות",
   "mandatory": "קורס בחירה",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד הקורס 84913 פעיל ב-my.technion; משמש דרישת קדם לקורסי חלל מתקדמים בפקולטה",
   "prereqIds": []
  },
  {
@@ -993,8 +993,8 @@
   "prereq": "084311 בלד\"ח",
   "mandatory": "קורס בחירה",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת מול הקטלוג הרשמי ב-7/2026; לא נמצאו סימני סגירה בחיפוש 8/2026; המרצה ד\"ר הדר בן-גידה מופיע כחבר סגל פעיל בפקולטה",
   "prereqIds": []
  },
  {
@@ -1024,8 +1024,8 @@
   "prereq": "086376 אווירודינמיקה חישובית (מקצוע צמוד)",
   "mandatory": "קורס בחירה",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "מופיע ברשימות קטלוג הקורסים של הטכניון; לא נמצאו סימני סגירה בחיפוש 8/2026",
   "prereqIds": [
    54
   ]
@@ -1056,9 +1056,9 @@
   "credits": "2.5",
   "prereq": "084312 זרימה דחיסה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 85407 פעיל ב-my.technion עם סילבוס מלא",
   "prereqIds": []
  },
  {
@@ -1088,8 +1088,8 @@
   "prereq": "084515 מבוא לתורת האלסטיות + 314200 מבוא להנדסת חומרים לתעופה וחלל",
   "mandatory": "קורס בחירה",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת מול הקטלוג הרשמי ב-7/2026; לא נמצאו סימני סגירה בחיפוש 8/2026",
   "prereqIds": []
  },
  {
@@ -1119,8 +1119,8 @@
   "prereq": "084515 מבוא לתורת האלסטיות",
   "mandatory": "קורס בחירה",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "תיאור הקורס 85550 (2 נ\"ז) מופיע בקטלוג הטכניון; לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -1137,7 +1137,7 @@
    "הנדסת אוויר וחלל / אווירונאוטיקה"
   ],
   "url": "https://students.technion.ac.il/local/technionsearch/course/85605",
-  "notes": "קורס 85605; 3.0 נ\"ז; קורס בחירה; אשכול: הנחייה ניווט בקרה ומערכות אוטונומיות, תכן והנדסת מערכות; דרישות קדם: 044098 מבוא להנדסת חשמל לתעופה וחלל + 084738 תורת הבקרה; מעבדת הוראה; מקור: המיפוי הידני של רקיע (7/2026); מספרי הקורסים אומתו מול קטלוג/ידיעון רשמי; מרצה אחראי הושלם מהקטלוג (קטלוג 85605 — סגל אחראי בהרצאה, חורף תשפ)",
+  "notes": "קורס 85605; 3.0 נ\"ז; קורס בחירה; אשכול: הנחייה ניווט בקרה ומערכות אוטונומיות, תכן והנדסת מערכות; דרישות קדם: 044098 מבוא להנדסת חשמל לתעופה וחלל + 084738 תורת הבקרה; מעבדת הוראה; מקור: המיפוי הידני של רקיע (7/2026); מספרי הקורסים אומתו מול קטלוג/ידיעון רשמי; מרצה אחראי הושלם מהקטלוג (קטלוג 85605 — סגל אחראי בהרצאה, חורף תשפ) | עדכון 8/2026: שם הקורס בקטלוג הנוכחי: מעבדת אוויוניקה ותוכנת הטסה (Avionics Laboratory and Flight Software); כולל יישום אלגוריתמי טייס אוטומטי על חומרת PIXHAWK וניסויי טיסה",
   "ok": true,
   "src": "rakia",
   "year": null,
@@ -1149,9 +1149,9 @@
   "credits": "3",
   "prereq": "044098 מבוא להנדסת חשמל לתעופה וחלל + 084738 תורת הבקרה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 85605 פעיל ב-my.technion",
   "prereqIds": []
  },
  {
@@ -1181,8 +1181,8 @@
   "prereq": "084630 שרטוט הנדסי + 084641 תכן הנוייצור של מערכות תעופתיות",
   "mandatory": "קורס בחירה",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת מול הקטלוג הרשמי ב-7/2026; לא נמצאו סימני סגירה בחיפוש 8/2026",
   "prereqIds": []
  },
  {
@@ -1212,8 +1212,8 @@
   "prereq": "084143 הנדסות מערכות אוויר חלל",
   "mandatory": "קורס בחירה",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד הקורס 085640 פעיל ב-my.technion ומופיע במאגר ההיסטוגרמות של הטכניון",
   "prereqIds": [
    24
   ]
@@ -1245,8 +1245,8 @@
   "prereq": "084641 תכן הנ. וייצור של מערכות תעופתיות",
   "mandatory": "קורס בחירה",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת מול הקטלוג הרשמי ב-7/2026; לא נמצאו סימני סגירה בחיפוש 8/2026",
   "prereqIds": []
  },
  {
@@ -1276,8 +1276,8 @@
   "prereq": "084515 מבוא לתורת האלסטיות + 084913 יסודות הנדסת חלל + 085634 פרויקט בתכן מכני",
   "mandatory": "קורס בחירה",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת מול הקטלוג הרשמי ב-7/2026; לא נמצאו סימני סגירה בחיפוש 8/2026",
   "prereqIds": [
    31,
    38
@@ -1310,8 +1310,8 @@
   "prereq": "084220 מכניקת הטיס 1 ומקצוע צמוד מכניקת הטיס 2",
   "mandatory": "קורס בחירה",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "מופיע במאגר ההיסטוגרמות של הטכניון ובקטלוג הלימודים תשפ\"ה 2024-2025",
   "prereqIds": [
    29
   ]
@@ -1342,9 +1342,9 @@
   "credits": "3",
   "prereq": "084213 תרמודינמיקה + 084225 דינמיקה + 094411 הסתברות + 114054 פיסיקה 3",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "הקורס 85925 מוזכר בקטלוגי הטכניון כקורס קשור/דרישת קדם; לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -1373,9 +1373,9 @@
   "credits": "3",
   "prereq": "084135 אנליזה נומרית",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 86172 פעיל ב-my.technion ומופיע בקטלוג התארים המתקדמים (שיטות נומריות בהנדסה אוירונוטית)",
   "prereqIds": []
  },
  {
@@ -1404,9 +1404,9 @@
   "credits": "3",
   "prereq": "084220 מכניקת הטיס 1 + 084225 דינמיקה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע כ-Current במאגר המקצועות של ביה\"ס לתארים מתקדמים ובפורטל הסטודנטים (technionsearch); לא נמצאו סימני סגירה",
   "prereqIds": [
    29
   ]
@@ -1437,9 +1437,9 @@
   "credits": "3",
   "prereq": "084220 מכניקת הטיס 1 + 084221 מכניקת הטיס 2",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס פעיל בפורטל הסטודנטים (86219 - דינמיקה ואוירודינמיקה של מסוקים); לא נמצאו סימני סגירה",
   "prereqIds": [
    29,
    30
@@ -1471,9 +1471,9 @@
   "credits": "3",
   "prereq": "084738 תורת הבקרה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע במאגר המקצועות של ביה\"ס לתארים מתקדמים ובפורטל הסטודנטים; לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -1502,9 +1502,9 @@
   "credits": "3",
   "prereq": "084225 דינמיקה + 084312 זרימה דחיסה + 084515 מבוא לתורת האלסטיות",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע כ-Current במאגר המקצועות של ביה\"ס לתארים מתקדמים (86241); לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -1533,9 +1533,9 @@
   "credits": "3",
   "prereq": "084738 תורת הבקרה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס פעיל בפורטל הסטודנטים; נכלל גם ברשימת מקצועות התוכנית הבין-יחידתית למערכות אוטונומיות",
   "prereqIds": []
  },
  {
@@ -1564,9 +1564,9 @@
   "credits": "3",
   "prereq": "084738 תורת הבקרה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע במאגר המקצועות של ביה\"ס לתארים מתקדמים; נכלל ברשימת מקצועות התוכנית למערכות אוטונומיות ורובוטיקה",
   "prereqIds": []
  },
  {
@@ -1595,9 +1595,9 @@
   "credits": "3",
   "prereq": "084314 זרימה צמיגה ומעבר חום",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס פעיל בפורטל הסטודנטים (86320 - מעבר חום בהנדסת אוירונוטיקה וחלל); לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -1626,9 +1626,9 @@
   "credits": "3",
   "prereq": "084314 זרימה צמיגה ומעבר חום + 084135 אנליזה נומרית",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס פעיל בפורטל הסטודנטים (86325); לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -1657,9 +1657,9 @@
   "credits": "3",
   "prereq": "084314 זרימה צמיגה ומעבר חום",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס פעיל בפורטל הסטודנטים (86366); לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -1688,9 +1688,9 @@
   "credits": "3",
   "prereq": "084135 אנליזה נומרית + 084312 זרימה דחיסה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע במאגר המקצועות של ביה\"ס לתארים מתקדמים (086376); לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -1719,9 +1719,9 @@
   "credits": "3",
   "prereq": "084314 זרימה צמיגה ומעבר חום",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע ברשימות הקורסים של הטכניון; אומת בביקורת 7/2026 ולא נמצאו סימני סגירה בבדיקה הנוכחית",
   "prereqIds": []
  },
  {
@@ -1750,9 +1750,9 @@
   "credits": "3",
   "prereq": "084312 זרימה דחיסה + 084314 זרימה צמיגה ומעבר חום",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע בתוכנית הלימודים של הפקולטה להנדסת אווירונאוטיקה וחלל; אומת בביקורת 7/2026, ללא סימני סגירה",
   "prereqIds": []
  },
  {
@@ -1769,7 +1769,7 @@
    "הנדסת אוויר וחלל / אווירונאוטיקה"
   ],
   "url": "https://students.technion.ac.il/local/technionsearch/course/86389",
-  "notes": "קורס 86389; 3.0 נ\"ז; קורס בחירה; אשכול: אווירודינמיקה ואווירואקוסטיקה; דרישות קדם: 084312 זרימה דחיסה; מקור: המיפוי הידני של רקיע (7/2026); מספרי הקורסים אומתו מול קטלוג/ידיעון רשמי; מרצה אחראי הושלם מהקטלוג (אביב תשע\"ט (2018/19) — הסמסטר היחיד בקטל)",
+  "notes": "קורס 86389; 3.0 נ\"ז; קורס בחירה; אשכול: אווירודינמיקה ואווירואקוסטיקה; דרישות קדם: 084312 זרימה דחיסה; מקור: המיפוי הידני של רקיע (7/2026); מספרי הקורסים אומתו מול קטלוג/ידיעון רשמי; מרצה אחראי הושלם מהקטלוג (אביב תשע\"ט (2018/19) — הסמסטר היחיד בקטל) | עדכון 8/2026: לא נמצאה עדות לביטול רשמי — הקורס עדיין רשום בקטלוג; מומלץ מעקב האם יוצע שוב בתשפ\"ז",
   "ok": true,
   "src": "rakia",
   "year": null,
@@ -1781,9 +1781,9 @@
   "credits": "3",
   "prereq": "084312 זרימה דחיסה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "uncertain",
+  "statusNote": "רשום בקטלוג, במערכת הרישום ובמאגר המקצועות, אך עמוד הסילבוס מציין 'לא יינתן השנה'; ככל הנראה מקצוע בחירה הניתן לסירוגין (מרצה אחראי עודכן לאחרונה תשע\"ט)",
   "prereqIds": []
  },
  {
@@ -1812,9 +1812,9 @@
   "credits": "3",
   "prereq": "084312 זרימה דחיסה + 084314 זרימה צמיגה ומעבר חום",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס פעיל בפורטל הסטודנטים (86390 - מבוא לאוירואקוסטיקה); לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -1843,9 +1843,9 @@
   "credits": "3",
   "prereq": "084312 זרימה דחיסה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע במאגר המקצועות של ביה\"ס לתארים מתקדמים (Aircraft Aeroacoustics 086395); המרצה אוקסנה סטלנוב חברת סגל פעילה בפקולטה",
   "prereqIds": []
  },
  {
@@ -1874,9 +1874,9 @@
   "credits": "3",
   "prereq": "084213 תרמודינמיקה וצמוד ל-084314 זרימה צמיגה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע בתוכנית הלימודים של הפקולטה באשכול הנעה והמרת אנרגיה; אומת בביקורת 7/2026, ללא סימני סגירה",
   "prereqIds": []
  },
  {
@@ -1905,9 +1905,9 @@
   "credits": "3",
   "prereq": "085406 הנעה רקטית",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס פעיל בפורטל הסטודנטים (86403 - הנעה רקטית בהודף מוצק); לא נמצאו סימני סגירה",
   "prereqIds": [
    23
   ]
@@ -1938,9 +1938,9 @@
   "credits": "3",
   "prereq": "084135 אנליזה נומרית, 084213 תרמודינמיקה, 084314 זרימה צמיגה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס פעיל בפורטל הסטודנטים (86413); לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -1969,9 +1969,9 @@
   "credits": "3",
   "prereq": "084314 זרימה צמיגה + 085406 הנעה רקטית",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע במאגר המקצועות של ביה\"ס לתארים מתקדמים ובפורטל הסטודנטים (86414); לא נמצאו סימני סגירה",
   "prereqIds": [
    23
   ]
@@ -2002,9 +2002,9 @@
   "credits": "3",
   "prereq": "085406 הנעה רקטית + 125001 כימיה כללית",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע במאגר ההיסטוגרמות של הטכניון והחיפוש איתר את שם הקורס בקטלוג הלימודים תשפ\"ו 2025-26; לא נמצאו סימני סגירה",
   "prereqIds": [
    23
   ]
@@ -2035,9 +2035,9 @@
   "credits": "3",
   "prereq": "085406 הנעה רקטית + 125001 כימיה כללית",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס פעיל בפורטל הסטודנטים (86478 - תהליכי שריפה); לא נמצאו סימני סגירה",
   "prereqIds": [
    23
   ]
@@ -2068,9 +2068,9 @@
   "credits": "3",
   "prereq": "084314 זרימה צמיגה + 085407 מנועי סילון",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס פעיל בפורטל הסטודנטים (כולל רישום סמסטריאלי 2023/24); מעבדת הטורבו-מכונות של פרופ' צ'וקורל פעילה",
   "prereqIds": [
    34
   ]
@@ -2089,7 +2089,7 @@
    "הנדסת אוויר וחלל / אווירונאוטיקה"
   ],
   "url": "https://students.technion.ac.il/local/technionsearch/course/86483",
-  "notes": "קורס 86483; 3.0 נ\"ז; קורס בחירה; אשכול: הנעה והמרת אנרגיה; דרישות קדם: 085407 מנועי סילון; מקור: המיפוי הידני של רקיע (7/2026); מספרי הקורסים אומתו מול קטלוג/ידיעון רשמי",
+  "notes": "קורס 86483; 3.0 נ\"ז; קורס בחירה; אשכול: הנעה והמרת אנרגיה; דרישות קדם: 085407 מנועי סילון; מקור: המיפוי הידני של רקיע (7/2026); מספרי הקורסים אומתו מול קטלוג/ידיעון רשמי | עדכון 8/2026: הקטלוג מציין שהקורס אינו מוצע בכל שנה אך זמין בהנחיה עצמית",
   "ok": true,
   "src": "rakia",
   "year": null,
@@ -2101,9 +2101,9 @@
   "credits": "3",
   "prereq": "085407 מנועי סילון",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע בקטלוג התארים המתקדמים (graduate.technion.ac.il, מקצוע 086483); צוין שהמקצוע לא ניתן השנה וקיימת אפשרות ללמידה בהנחיה עצמית - עדיין בקטלוג הפעיל",
   "prereqIds": [
    34
   ]
@@ -2134,9 +2134,9 @@
   "credits": "3",
   "prereq": "085406 הנעה רקטית או 085407 מנועי סילון",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 86484 פעיל בפורטל הסטודנטים (my.technion) כולל רישום סמסטריאלי; אין סימני סגירה",
   "prereqIds": [
    23,
    34
@@ -2168,9 +2168,9 @@
   "credits": "3",
   "prereq": "084515 מבוא לתורת האלסטיות",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "אומת מול הקטלוג הרשמי בביקורת 7/2026; חיפוש נוכחי לא העלה סימני סגירה (עמוד ישיר לא נגיש דרך מנוע החיפוש)",
   "prereqIds": []
  },
  {
@@ -2199,9 +2199,9 @@
   "credits": "3",
   "prereq": "084515 מבוא לתורת האלסטיות",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "אומת מול הקטלוג הרשמי בביקורת 7/2026; תוצאות חיפוש מזהות את הקורס 086530 ואין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -2230,9 +2230,9 @@
   "credits": "3",
   "prereq": "084641 תכן הנ. וייצור של מערכות תעופתיות",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 086534 פעיל בפורטל הסטודנטים (my.technion) עם סילבוס מלא; אין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -2261,9 +2261,9 @@
   "credits": "3",
   "prereq": "084515 מבוא לתורת האלסטיות",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע בקטלוג התארים המתקדמים העדכני (מסומן Current) וכן בפורטל הסטודנטים",
   "prereqIds": []
  },
  {
@@ -2292,9 +2292,9 @@
   "credits": "3",
   "prereq": "084135 אנליזה נומרית + 084515 מבוא לתורת האלסטיות",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע בקטלוג התארים המתקדמים העדכני (מסומן Current) וכן בפורטל הסטודנטים וברישום ug3",
   "prereqIds": []
  },
  {
@@ -2323,9 +2323,9 @@
   "credits": "3",
   "prereq": "084515 מבוא לתורת האלסטיות",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 086576 קיים במערכת הרישום (ug3.technion.ac.il); אין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -2354,9 +2354,9 @@
   "credits": "3",
   "prereq": "084515 מבוא לתורת האלסטיות + 084737 מערכות דינמיות",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 086577 פעיל בפורטל הסטודנטים עם סילבוס מלא; אין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -2385,9 +2385,9 @@
   "credits": "3",
   "prereq": "084220 מכניקת הטיס 1 + 084515 מבוא לתורת האלסטיות",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 86583 פעיל בפורטל הסטודנטים כולל רישום סמסטריאלי; אין סימני סגירה",
   "prereqIds": [
    29
   ]
@@ -2418,9 +2418,9 @@
   "credits": "2",
   "prereq": "044098 מבוא להנדסת חשמל לתעופה וחלל + 084314 זרימה צמיגה + 084738 תורת הבקרה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 86650 פעיל בפורטל הסטודנטים; הועבר בסמסטרים קודמים לפי CheeseFork; אין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -2449,9 +2449,9 @@
   "credits": "2",
   "prereq": "044098 מבוא להנדסת חשמל לתעופה וחלל + 094411 הסתברות",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע בקטלוג התארים המתקדמים העדכני (מסומן Current) וכן בפורטל הסטודנטים וברישום ug3",
   "prereqIds": []
  },
  {
@@ -2480,9 +2480,9 @@
   "credits": "3",
   "prereq": "084738 תורת הבקרה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "הקורס מופיע בעמוד ההוראה הפעיל של פרופ' זלאזו בטכניון והוא חבר סגל פעיל בפקולטה; אין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -2511,9 +2511,9 @@
   "credits": "3",
   "prereq": "084737 מערכות דינמיות + 094411 הסתברות",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 86733 פעיל בפורטל הסטודנטים (בשם הקטלוגי 'תהליכים אקראיים במערכות אויר-חלל'); מופיע גם ברשימת מקצועות התוכנית למערכות אוטונומיות",
   "prereqIds": []
  },
  {
@@ -2542,9 +2542,9 @@
   "credits": "3",
   "prereq": "084738 תורת הבקרה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "אומת מול הקטלוג הרשמי בביקורת 7/2026; מופיע בתוכנית הלימודים של הפקולטה (3 נ\"ז); אין סימני סגירה בחיפוש נוכחי",
   "prereqIds": []
  },
  {
@@ -2573,9 +2573,9 @@
   "credits": "3",
   "prereq": "084738 תורת הבקרה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע בקטלוג התארים המתקדמים העדכני (מסומן Current) וכן בפורטל הסטודנטים עם סילבוס מלא",
   "prereqIds": []
  },
  {
@@ -2604,9 +2604,9 @@
   "credits": "3",
   "prereq": "084738 תורת הבקרה",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 86760 פעיל בפורטל הסטודנטים עם סילבוס מלא; אין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -2635,9 +2635,9 @@
   "credits": "3",
   "prereq": "086733 תהליכים אקראיים",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע בקטלוג התארים המתקדמים העדכני (מסומן Current) ומוצע גם לסטודנטים אירופיים דרך פלטפורמת EuroTeQ",
   "prereqIds": [
    80
   ]
@@ -2668,9 +2668,9 @@
   "credits": "3",
   "prereq": "086733 תהליכים אקראיים",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 86762 פעיל בפורטל הסטודנטים; מלומד ע\"י פרופ' אינדלמן; בחלק מהמקורות מופיע בשם קודם 'ניווט וחישת עולם אוטונומיים'",
   "prereqIds": [
    80
   ]
@@ -2701,9 +2701,9 @@
   "credits": "3",
   "prereq": "086733 תהליכים אקראיים",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "עמוד הקורס 86777 פעיל בפורטל הסטודנטים (בשם הקטלוגי 'יסודות בתורת השערוך'); מופיע גם ברשימות מקצועות בקרה של הטכניון",
   "prereqIds": [
    80
   ]
@@ -2734,9 +2734,9 @@
   "credits": "3",
   "prereq": "084314 זרימה צמיגה ומעבר חום",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "אומת מול הקטלוג הרשמי בביקורת 7/2026; מופיע בתוכניות הלימודים של הפקולטה (3 נ\"ז); אין סימני סגירה בחיפוש נוכחי",
   "prereqIds": []
  },
  {
@@ -2765,9 +2765,9 @@
   "credits": "3",
   "prereq": "084135 אנליזה נומרית + 094411 הסתברות + 084737 מערכות דינמיות",
   "mandatory": "קורס בחירה",
-  "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "אומת מול הקטלוג הרשמי בביקורת 7/2026; מופיע בתוכנית הלימודים של הפקולטה; אין סימני סגירה בחיפוש נוכחי",
   "prereqIds": []
  },
  {
@@ -2797,8 +2797,8 @@
   "prereq": "084312 זרימה דחיסה + 084314 זרימה צמיגה ומעבר חום",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד הסילבוס בקטלוג המוסמכים (graduate.technion.ac.il) מסומן Current; אין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -2828,8 +2828,8 @@
   "prereq": "084314 זרימה צמיגה ומעבר חום",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד הקורס 86802 מאונדקס ב-students.technion.ac.il; אין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -2859,8 +2859,8 @@
   "prereq": "084913 יסודות הנדסת חלל",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "הקורס מופיע ברשימות קורסים של הטכניון ותחום האסטרונאוטיקה פעיל בפקולטה; לא נמצאו סימני סגירה",
   "prereqIds": [
    31
   ]
@@ -2879,7 +2879,7 @@
    "הנדסת אוויר וחלל / אווירונאוטיקה"
   ],
   "url": "https://students.technion.ac.il/local/technionsearch/course/86924",
-  "notes": "קורס 86924; 3.0 נ\"ז; קורס בחירה; אשכול: אסטרונאוטיקה; דרישות קדם: 084213 תרמודינמיקה + 114054 פיסיקה 3; מקור: המיפוי הידני של רקיע (7/2026); מספרי הקורסים אומתו מול קטלוג/ידיעון רשמי; מרצה אחראי לפי הקטלוג; קורס בתחומי מעבדת APL",
+  "notes": "קורס 86924; 3.0 נ\"ז; קורס בחירה; אשכול: אסטרונאוטיקה; דרישות קדם: 084213 תרמודינמיקה + 114054 פיסיקה 3; מקור: המיפוי הידני של רקיע (7/2026); מספרי הקורסים אומתו מול קטלוג/ידיעון רשמי; מרצה אחראי לפי הקטלוג; קורס בתחומי מעבדת APL | עדכון 8/2026: בלינקדאין ד\"ר קרונהאוס מופיע גם כמייסד Space Plasmatics; הקורס עדיין בקטלוג הרשמי",
   "ok": true,
   "src": "rakia",
   "year": null,
@@ -2892,8 +2892,8 @@
   "prereq": "084213 תרמודינמיקה + 114054 פיסיקה 3",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד הסילבוס בקטלוג המוסמכים מסומן Current; מעבדת APL פעילה",
   "prereqIds": []
  },
  {
@@ -2923,8 +2923,8 @@
   "prereq": "084738 תורת הבקרה + 084913 יסודות הנדסת חלל",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "לא נמצאו סימני סגירה בחיפוש 8/2026; אומת מול הקטלוג בביקורת 7/2026",
   "prereqIds": [
    31
   ]
@@ -2956,8 +2956,8 @@
   "prereq": "084225 דינמיקה + 084515 מבוא לתורת האלסטיות",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "לא נמצאו סימני סגירה בחיפוש 8/2026; אומת מול הקטלוג בביקורת 7/2026",
   "prereqIds": []
  },
  {
@@ -2987,8 +2987,8 @@
   "prereq": "086376 אווירודינמיקה חישובית",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "לא נמצאו סימני סגירה בחיפוש 8/2026; קורס הקדם 86376 פעיל בקטלוג; אומת בביקורת 7/2026",
   "prereqIds": [
    54
   ]
@@ -3020,8 +3020,8 @@
   "prereq": "084311 בלד\"ח",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד הסגל של פרופ' יוסילבסקי פעיל באתר הפקולטה; לא נמצאו סימני סגירה; אומת בביקורת 7/2026",
   "prereqIds": []
  },
  {
@@ -3051,8 +3051,8 @@
   "prereq": "084311 בלד\"ח + 084221 מכניקת הטיס 2",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "פרופ' יוסילבסקי פעיל בפקולטה; לא נמצאו סימני סגירה; אומת בביקורת 7/2026",
   "prereqIds": [
    30
   ]
@@ -3084,8 +3084,8 @@
   "prereq": "אין",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "ד\"ר יובל דגן פעיל בפקולטה (מעבדת FDSL); לא נמצאו סימני סגירה; אומת בביקורת 7/2026",
   "prereqIds": []
  },
  {
@@ -3115,8 +3115,8 @@
   "prereq": "אין",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד הסגל של פרופ' גבעולי פעיל בטכניון; לא נמצאו סימני סגירה; אומת בביקורת 7/2026",
   "prereqIds": []
  },
  {
@@ -3146,8 +3146,8 @@
   "prereq": "084738 תורת הבקרה",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "לא נמצאו סימני סגירה בחיפוש 8/2026; אומת מול הקטלוג בביקורת 7/2026",
   "prereqIds": []
  },
  {
@@ -3177,8 +3177,8 @@
   "prereq": "084738 תורת הבקרה",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "לא נמצאו סימני סגירה בחיפוש 8/2026; אומת מול הקטלוג בביקורת 7/2026",
   "prereqIds": []
  },
  {
@@ -3208,8 +3208,8 @@
   "prereq": "084738 תורת הבקרה",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "פרופ' טל שימא פעיל בטכניון (מחקר הנחיית טילים); לא נמצאו סימני סגירה; אומת בביקורת 7/2026",
   "prereqIds": []
  },
  {
@@ -3239,8 +3239,8 @@
   "prereq": "084314 זרימה צמיגה ומעבר חום",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "לא נמצאו סימני סגירה בחיפוש 8/2026; אומת מול הקטלוג בביקורת 7/2026",
   "prereqIds": []
  },
  {
@@ -3270,8 +3270,8 @@
   "prereq": "086289 בקרת מערכות רבות קלט ופלט",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "הקורס מופיע בעמוד ההוראה של פרופ\"ח זלאזו (Robust Control – 088792); אין סימני סגירה",
   "prereqIds": [
    49
   ]
@@ -3303,8 +3303,8 @@
   "prereq": "אין",
   "mandatory": "קורס בחירה",
   "degree": "גם וגם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד הקורס 88900 מאונדקס ב-students.technion.ac.il; מעבדת DSSL של פרופ' גורפיל פעילה; אין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -3334,8 +3334,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד רשמי פעיל באתר הפקולטה; פרופ\"ח צוקרל עומד בראש המרכז; צוות ומכשור מפורטים בעמוד",
   "prereqIds": []
  },
  {
@@ -3365,8 +3365,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "בדיקה קלה: עמודי האסטרופיזיקה של ביה\"ס לפיזיקה (physics.tau.ac.il/astrophysics) פעילים ואין סימני סגירה; אומת ok במיפוי 7/2026",
   "prereqIds": []
  },
  {
@@ -3396,8 +3396,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמודי המצפה פעילים באתר ביה\"ס לפיזיקה (physics.tau.ac.il/astrophysics/wise_observatory) ובאתר wise-obs.tau.ac.il; מתואר כמצפה מחקרי פעיל של האוניברסיטה",
   "prereqIds": []
  },
  {
@@ -3427,8 +3427,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "פרופיל רשמי פעיל (english.tau.ac.il/profile/barkana); פרסומים מדעיים חדשים מ-6-7/2026 בתחום אות 21 ס\"מ וקוסמולוגיה",
   "prereqIds": []
  },
  {
@@ -3458,8 +3458,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד פרופיל רשמי פעיל (physics.tau.ac.il/profile/levinson); פרופסור מן המניין, מחקר שוטף בסילונים יחסותיים ו-FRB",
   "prereqIds": []
  },
  {
@@ -3489,8 +3489,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "פרופיל רשמי פעיל (en-exact-sciences.tau.ac.il/profile/arcavi); חבר הצוות המדעי של ULTRASAT (שיגור מתוכנן 2026); מודעת פוסט-דוק משותפת ויצמן–ת\"א בתחום ה-Transients",
   "prereqIds": []
  },
  {
@@ -3520,8 +3520,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "בדיקה קלה: עמוד תחומי המחקר של סגל הפיזיקה פעיל ומצפה וייז שבניהולו פעיל; אין סימני סגירה; אומת ok במיפוי 7/2026",
   "prereqIds": []
  },
  {
@@ -3551,8 +3551,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "פרופיל רשמי פעיל (english.tau.ac.il/profile/bennyt); הרצאת אורח ב-2025 ומחקר שוטף על חורים שחורים על-מסיביים ו-AGN",
   "prereqIds": []
  },
  {
@@ -3583,8 +3583,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד המרכז פעיל באתר ביה\"ס פורטר (research_nanoSatellites); שיתוף פעולה בין-פקולטתי עם הנדסה ומרכז שורק; TAU-SAT1 מתועד",
   "prereqIds": []
  },
  {
@@ -3615,8 +3615,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמרני מתועד כראש מעבדת הלוויינים הזעירים (TAU-SAT1, תחנת קרקע על גג בניין ההנדסה); נמנה עם חוקרי מרכז הנדסת החלל החדש שנחנך ב-2026 (space.tau.ac.il)",
   "prereqIds": []
  },
  {
@@ -3647,8 +3647,8 @@
   "prereq": "בהתאם למסלול, פרויקט או תכנית מחקר",
   "mandatory": "מרכז מחקר, חינוך ופיתוח",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "המרכז נחנך ב-2026: ידיעה רשמית tau.ac.il/news/sec-launch-26 ועמוד english.tau.ac.il/news/new-space-engineering-center; אתר space.tau.ac.il פעיל; פרופ' מאיר אריאל בראש המרכז",
   "prereqIds": []
  },
  {
@@ -3678,8 +3678,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אתר המרכז spaceweather.sites.tau.ac.il פעיל (מצב מזג אוויר חללי שוטף); ד\"ר אולגה חברובה אשת קשר; עמוד באתר פורטר פעיל",
   "prereqIds": []
  },
  {
@@ -3709,8 +3709,8 @@
   "prereq": "בהתאם למסלול/מחקר",
   "mandatory": "תשתית מחקרית",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד המעבדה פעיל באתר החוג לגאוגרפיה ואתר ייעודי tau-rsl.com; פרסום מדעי בספקטרוסקופיית הדמיה מ-2025; בן-דור ראש המעבדה",
   "prereqIds": []
  },
  {
@@ -3740,8 +3740,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד המעבדה פעיל (geography/research_airObservatory); צ'ודנובסקי פרופ' חבר וראש המעבדה; שילוב לידאר ולוויינים פסיביים מתועד",
   "prereqIds": []
  },
  {
@@ -3758,7 +3758,7 @@
    "פיזיקה ואסטרופיזיקה / אסטרונומיה"
   ],
   "url": "https://geosciences.tau.ac.il/research_planetary",
-  "notes": "מבנה כוכבי לכת, שביטים ואסטרואידים, השמש, יונוספירה; כולל גם פרופ' שי צוקר (אקסופלנטות)",
+  "notes": "מבנה כוכבי לכת, שביטים ואסטרואידים, השמש, יונוספירה; כולל גם פרופ' שי צוקר (אקסופלנטות) | עדכון 8/2026: החוג מופיע כיום באתר גם בשם 'החוג למדעי כדור הארץ וכוכבי הלכת'",
   "ok": true,
   "src": "ours",
   "year": null,
@@ -3771,8 +3771,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד המדעים הפלנטריים פעיל באתר החוג (geosciences.tau.ac.il/research_planetary)",
   "prereqIds": []
  },
  {
@@ -3802,8 +3802,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד התוכנית החד-חוגית פעיל (exact-sciences.tau.ac.il/physics-h/bsc_physics_single_major) ועמוד רישום go.tau.ac.il; ידיעון תשפ\"ז זמין באתר הפקולטה",
   "prereqIds": []
  },
  {
@@ -3833,8 +3833,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אתר החוג מציג תוכנית חד-חוגית 'גאופיזיקה ומדעי האטמוספירה והחלל' ומסלולים דו-חוגיים בגאופיזיקה ומדעים פלנטריים; עמוד המדעים הפלנטריים פעיל",
   "prereqIds": []
  },
  {
@@ -3865,8 +3865,8 @@
   "prereq": "תואר ראשון בהנדסה מכנית או הנדסת אווירונאוטיקה וחלל בממוצע 85+ ומציאת מנחה",
   "mandatory": "מסלול תואר שני מחקרי",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד engineering.tau.ac.il/space_mech פעיל; חטיבת החלל מוצגת באתר הפקולטה כתוכנית פעילה (space_research)",
   "prereqIds": []
  },
  {
@@ -3897,8 +3897,8 @@
   "prereq": "תואר ראשון בהנדסת חשמל בממוצע 85+ ומציאת מנחה לפני הקבלה",
   "mandatory": "מסלול תואר שני מחקרי",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד engineering.tau.ac.il/space_elect פעיל; מסלול בין-תחומי עם הנדסה מכנית והנדסת חומרים",
   "prereqIds": []
  },
  {
@@ -3927,9 +3927,9 @@
   "credits": "3",
   "prereq": "מכניקה אנליטית, יחסות פרטית וקוונטים 1",
   "mandatory": "בחירה",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "עמוד הקורס פעיל ב-Moodle לשנה\"ל 2024/25 (moodle.tau.ac.il/2024, קורס 321310801) ובמערכת המידע; מרצה: פרופ' אהוד נקר; קורס שנה ג' בתואר הראשון",
   "prereqIds": []
  },
  {
@@ -3958,9 +3958,9 @@
   "credits": "4",
   "prereq": "לא צוינו דרישות קדם בסילבוס הזמין",
   "mandatory": "בחירה / קורס במסלול חלל",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "בדיקה קלה: אין סימני סגירה; פרופ' אריאל פעיל ועומד בראש מרכז הנדסת החלל שנחנך ב-2026, והקורס נכלל בחטיבת החלל לתואר שני; מספור 0512-4xxx = קורס מתקדם הפתוח גם לשנה ד'; אומת ok במיפוי 7/2026",
   "prereqIds": []
  },
  {
@@ -3978,7 +3978,7 @@
    "רובוטיקה ומערכות חלל"
   ],
   "url": "https://engineering.tau.ac.il/Mechanical-Engineering-Nano-Satellite-Project",
-  "notes": "פרויקט גמר לתואר ראשון - תכן מערכות מכניות של ננו-לוויין; לא צוין במקור נ\"ז; דרישות קדם: שיבוץ לפרויקט גמר ואישור מנחה/צוות; אומת גם במיפוי הידני של רקיע (7/2026)",
+  "notes": "פרויקט גמר לתואר ראשון - תכן מערכות מכניות של ננו-לוויין; לא צוין במקור נ\"ז; דרישות קדם: שיבוץ לפרויקט גמר ואישור מנחה/צוות; אומת גם במיפוי הידני של רקיע (7/2026) | עדכון 8/2026: תוקן שדה התואר: לפי ההערות זהו פרויקט גמר לתואר ראשון (היה רשום בטעות 'תארים מתקדמים')",
   "ok": true,
   "src": "both",
   "year": null,
@@ -3990,9 +3990,9 @@
   "credits": "לא צוין במקור",
   "prereq": "שיבוץ לפרויקט גמר ואישור מנחה/צוות",
   "mandatory": "פרויקט גמר",
-  "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "בדיקה קלה: אין סימני סגירה; פעילות פרויקטי הננו-לוויינים בפקולטה להנדסה נמשכת ואף התרחבה עם חניכת מרכז הנדסת החלל ב-2026; אומת ok במיפוי 7/2026",
   "prereqIds": []
  },
  {
@@ -4021,9 +4021,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "בדיקה קלה: אין סימני סגירה; קורס תואר שני בידיעון הפיזיקה, וביה\"ס לפיזיקה ולאסטרונומיה פעיל במלואו; אומת ok במיפוי 7/2026",
   "prereqIds": []
  },
  {
@@ -4040,7 +4040,7 @@
    "פיזיקה ואסטרופיזיקה / אסטרונומיה"
   ],
   "url": "https://exact-sciences.tau.ac.il/yedion/2021-22/physics_msc",
-  "notes": "קורס תואר שני; מרצה לא צוין בידיעון",
+  "notes": "קורס תואר שני; מרצה לא צוין בידיעון | עדכון 8/2026: הסילבוס העדכני ביותר שאותר בחיפוש הוא תש\"ף (2020); קורסי בחירה מתקדמים באסטרופיזיקה מוצעים במחזוריות",
   "ok": true,
   "src": "ours",
   "year": null,
@@ -4052,9 +4052,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "סילבוס הקורס קיים במערכות תל-אביב (מרצה: פרופ' עמיאל שטרנברג) והקורס מופיע בידיעון התואר השני בפיזיקה; לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4083,9 +4083,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "הקורס מופיע ברשימות הקורסים של הפקולטה למדעים מדויקים ובידיעון התואר השני; בבדיקה קלה לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4114,9 +4114,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "בדיקה קלה: לא נמצאו סימני סגירה; לא אותר סילבוס עדכני בחיפוש — קורס בחירה מתקדם המוצע במחזוריות בביה\"ס לפיזיקה",
   "prereqIds": []
  },
  {
@@ -4145,9 +4145,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "uncertain",
+  "statusNote": "לא אותר סילבוס פעיל לקורס באף שנה שנבדקה; פרופ' צבי מזא\"ה, המזוהה עם תחום הכוכבים הכפולים והאקסופלנטות, הוא כיום אמריטוס (חתן פרס ישראל 2024) — אין עדות שהקורס מוצע כיום, אך גם לא נמצאה הודעת ביטול רשמית",
   "prereqIds": []
  },
  {
@@ -4177,8 +4177,8 @@
   "prereq": "מכניקת המוצקים (1) 0542-2200 + מעבר חום 0542-3620",
   "mandatory": "בחירה / קורס במסלול חלל",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת במיפוי 7/2026 עם סילבוס תשפ\"ה (2025); בדיקה מקוונת חוזרת לא התאפשרה עקב מגבלות גישה — לא ידועים סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4207,9 +4207,9 @@
   "credits": "4",
   "prereq": "פיזיקה 2 0509-1829",
   "mandatory": "בחירה / קורס במסלול חלל",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת במיפוי 7/2026 (סילבוס תשפ\"ד); קורס במסלול חטיבת החלל בהנדסה מכנית — לא ידועים סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4238,9 +4238,9 @@
   "credits": "2",
   "prereq": "כימיה בסיסית להנדסת חומרים 0581-1115 + מעבדה בפיזיקה 1 0321-1115",
   "mandatory": "בחירה / קורס במסלול חלל",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת במיפוי 7/2026 (סילבוס תשפ\"ד); קורס בקוד 5xxx ברמת תארים מתקדמים במסלול חטיבת החלל — לא ידועים סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4269,9 +4269,9 @@
   "credits": "2",
   "prereq": "לא צוינו דרישות קדם",
   "mandatory": "בחירה / כלים שלובים",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת במיפוי 7/2026 עם סילבוס תשפ\"ה (2025); קורס כלים שלובים לכלל תלמידי התואר הראשון — לא ידועים סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4301,8 +4301,8 @@
   "prereq": "לא צוינו דרישות קדם",
   "mandatory": "בחירה / כלים שלובים",
   "degree": "קהל רחב במסגרת כלים שלובים; קורס מקוון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת במיפוי 7/2026 עם סילבוס תשפ\"ה (2025); קורס מקוון במסגרת כלים שלובים — לא ידועים סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4332,8 +4332,8 @@
   "prereq": "תואר ראשון במדע והנדסה של חומרים בממוצע 85+ ומציאת מנחה לפני הקבלה",
   "mandatory": "מסלול תואר שני מחקרי",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת במיפוי 7/2026; עמוד התוכנית engineering.tau.ac.il/space_material פעיל לפי המיפוי — לא ידועים סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4362,9 +4362,9 @@
   "credits": "3",
   "prereq": "פיזיקה קלאסית 1 + גלים אור ואופטיקה + פיזיקה קלאסית 2 + מבוא מתמטי לפיזיקה 1–2",
   "mandatory": "בחירה",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת במיפוי 7/2026 עם סילבוס תשפ\"ה (2025); קורס בקוד 2xxx לתואר ראשון בגאופיזיקה — לא ידועים סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4393,9 +4393,9 @@
   "credits": "2",
   "prereq": "מבוא למערכת השמש (0341-2301)",
   "mandatory": "בחירה",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת במיפוי 7/2026 עם סילבוס תשפ\"ה (2025); קורס בקוד 3xxx לתואר ראשון — לא ידועים סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4424,9 +4424,9 @@
   "credits": "2",
   "prereq": "מבוא לכימיה (0341-2221) + מבוא למערכת השמש (0341-2301)",
   "mandatory": "בחירה",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת במיפוי 7/2026 עם סילבוס תשפ\"ה (2025); קורס בקוד 3xxx לתואר ראשון — לא ידועים סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4456,8 +4456,8 @@
   "prereq": "לא צוינו דרישות קדם בסילבוס הזמין",
   "mandatory": "בחירה / קורס מתקדם",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת במיפוי 7/2026 עם סילבוס תשפ\"ה (2025); פרופ' שי צוקר פעיל בסגל החוג לגאופיזיקה — לא ידועים סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4474,7 +4474,7 @@
    "חישה מרחוק ולוויינים"
   ],
   "url": "https://ims.tau.ac.il/Tal/Syllabus/Syllabus_L.aspx?course=0349443401&year=2023",
-  "notes": "קורס 0349-4434; 4.0 נ\"ז; בחירה / מתקדם; דרישות קדם: חישה מרחוק (0349-2918) או יסודות החישה מרחוק (0691-2918); תקציר (מהמיפוי): קורס מתקדם בחישה מרחוק אופטית: קרינה, חיישנים, פלטפורמות, עיבוד הדמאות, מערכות חלל ואוויר, ודוגמאות מניטור הסביבה ותכניות חלל של NASA, ESA, DLR ו-ASI.; מקור: המיפוי הידני של רקיע (7/2026); קורס הקשור למעבדה לחישה מרחוק (RSL) של פרופ' אייל בן-דור",
+  "notes": "קורס 0349-4434; 4.0 נ\"ז; בחירה / מתקדם; דרישות קדם: חישה מרחוק (0349-2918) או יסודות החישה מרחוק (0691-2918); תקציר (מהמיפוי): קורס מתקדם בחישה מרחוק אופטית: קרינה, חיישנים, פלטפורמות, עיבוד הדמאות, מערכות חלל ואוויר, ודוגמאות מניטור הסביבה ותכניות חלל של NASA, ESA, DLR ו-ASI.; מקור: המיפוי הידני של רקיע (7/2026); קורס הקשור למעבדה לחישה מרחוק (RSL) של פרופ' אייל בן-דור | עדכון 8/2026: פרופ' איל בן דור עומד בראש המעבדה לחישה מרחוק (RSL) הפעילה",
   "ok": true,
   "src": "rakia",
   "year": null,
@@ -4486,9 +4486,9 @@
   "credits": "4",
   "prereq": "חישה מרחוק (0349-2918) או יסודות החישה מרחוק (0691-2918)",
   "mandatory": "בחירה / מתקדם",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת במיפוי 7/2026; הסילבוס הזמין הוא משנת תשפ\"ג (2023) — מומלץ לוודא הצעה בתשפ\"ו; לא ידועים סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4518,8 +4518,8 @@
   "prereq": "",
   "mandatory": "פעילות אקדמית / בחירה",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אתרי המועדון האסטרונומי פעילים (astro-club.tau.ac.il כולל אסטרופדיה, ו-tauastroclub.com); אומת גם במיפוי 7/2026 עם סילבוס תשפ\"ה",
   "prereqIds": []
  },
  {
@@ -4549,8 +4549,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת במיפוי 7/2026; המרכז בראשות פרופ' אביתר מתניה, הוקם 12/2021 בשיתוף חיל האוויר — לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -4580,8 +4580,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת פעיל בביקורת 7/2026 מול עמוד המרכז במכון רקח; בדיקה חוזרת 8/2026 לא התאפשרה — חסימת רשת מלאה בסשן זה",
   "prereqIds": []
  },
  {
@@ -4611,8 +4611,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026: עמוד הקבוצה פעיל ופירן מלמד 77118 בשנתון תשפ\"ו; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -4642,8 +4642,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמוד קבוצת האסטרופיזיקה במכון רקח; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -4673,8 +4673,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמוד קבוצת האסטרופיזיקה במכון רקח; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -4704,8 +4704,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026: התחום ממשיך בהובלת בירנבוים ומנדלקר לפי עמוד הקבוצה (פרופ' דקל ז\"ל נפטר 11/2025); לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -4735,8 +4735,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמוד קבוצת האסטרופיזיקה במכון רקח; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -4766,8 +4766,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמוד קבוצת האסטרופיזיקה במכון רקח; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -4797,8 +4797,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026: עמוד סגל רשמי במכון רקח (ברשימת האמריטי); לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -4828,8 +4828,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026: עמוד סגל פעיל במכון למדעי כדור הארץ (אמריטוס); לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -4859,8 +4859,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026: עמוד סגל פעיל; חתן פרס בלוואטניק 2025; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -4890,8 +4890,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמוד המעבדה במחלקה למדע המרחב; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -4920,9 +4920,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמוד המידע לתואר בוגר בפיזיקה; רמת התואר נקבעה לפי שם התוכנית (בוגר); לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -4951,9 +4951,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמוד ההתמחות הרשמי (הקישור עודכן אז); רמת התואר לפי שם התוכנית (בוגר); לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -4982,9 +4982,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמוד החטיבה הרשמי (כולל תיקון שם היועץ); רמת התואר לפי שם התוכנית (בוגר); לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -5001,7 +5001,7 @@
    "חישה מרחוק ולוויינים"
   ],
   "url": "https://info.huji.ac.il/master/Geography",
-  "notes": "תואר שני עם חישה מרחוק וגאואינפורמטיקה",
+  "notes": "תואר שני עם חישה מרחוק וגאואינפורמטיקה | עדכון 8/2026: שדה degree נורמל מהנוסח החופשי 'תואר מוסמך בגאואינפורמטיקה ומדע המרחב' לערך המותר",
   "ok": true,
   "src": "ours",
   "year": null,
@@ -5013,9 +5013,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "תואר מוסמך בגאואינפורמטיקה ומדע המרחב",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמוד המוסמך; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -5045,8 +5045,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת מול ה-shnaton API לתשפ\"ה–תשפ\"ו בביקורת 7/2026; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -5075,9 +5075,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026: פעיל בסמסטר ב' תשפ\"ו במסגרת אבני פינה (תוכנית המיועדת לתלמידי בוגר); לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -5106,9 +5106,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת מול ה-shnaton API בביקורת 7/2026; קורס כלל-אוניברסיטאי למי שאינם תלמידי פיזיקה, ברמת בוגר; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -5138,8 +5138,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת מול ה-shnaton API בביקורת 7/2026; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -5169,8 +5169,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת מול ה-shnaton API בביקורת 7/2026; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -5200,8 +5200,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת מול ה-shnaton API בביקורת 7/2026; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -5231,8 +5231,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת מול ה-shnaton API בביקורת 7/2026 — מוצע בתשפ\"ו סמסטר ב'; לא נבדק מחדש (חסימת רשת)",
   "prereqIds": []
  },
  {
@@ -5262,8 +5262,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אתר הקבוצה ודפי החוקרים פעילים; חברי הקבוצה (ציטרין, קובץ, קשת ועוד) מפרסמים ב-2025-2026",
   "prereqIds": []
  },
  {
@@ -5293,8 +5293,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "פרסומים בינואר-פברואר 2026 (A&A, ApJ, MNRAS) וסקירת עידוש כבידה עם JWST; אתר הקבוצה פעיל",
   "prereqIds": []
  },
  {
@@ -5324,8 +5324,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "פרסומים ב-Phys. Rev. D ביולי 2025; אתר הקבוצה ופרופיל CRIS פעילים",
   "prereqIds": []
  },
  {
@@ -5355,8 +5355,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "פרסום ב-JCAP באוקטובר 2025 על מגנוט פלזמה קדמונית; מנחה דוקטורנטים; אתר הקבוצה פעיל",
   "prereqIds": []
  },
  {
@@ -5386,8 +5386,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "מאמר סקירה ב-Reviews of Geophysics 2026 על גלי הלם בלתי-מתנגשים ופרסומים שוטפים ב-2025",
   "prereqIds": []
  },
  {
@@ -5417,8 +5417,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אמריטוס פעיל מחקרית — פרסומים ב-ApJ בינואר-פברואר 2025; פרופיל CRIS עדכני",
   "prereqIds": []
  },
  {
@@ -5448,8 +5448,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "שנתון המחלקה לפיזיקה 2025-26 (SHNATON_new) מקוון וכולל את פרק מסלולי ה-MSc עם התמחות אסטרופיזיקה",
   "prereqIds": []
  },
  {
@@ -5479,8 +5479,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "מגמת האסטרונומיה מופיעה בשנתון 2025-26 (בחירת ארבעה קורסים ממגמת ההתמחות)",
   "prereqIds": []
  },
  {
@@ -5509,9 +5509,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "מופיע בקטלוג קורסי 203 בשנתון המחלקה; קורס בסיס במגמת אסטרונומיה (מספור 203-1 = תואר ראשון)",
   "prereqIds": []
  },
  {
@@ -5540,9 +5540,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "מאומת כחלק ממגמת אסטרונומיה ואסטרופיזיקה בשנתון המחלקה (203-1 = תואר ראשון)",
   "prereqIds": []
  },
  {
@@ -5571,9 +5571,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "קורס חובה בהתמחות אסטרופיזיקה ב-MSc לפי שנתון 2025-26 (מספור 203-2 = תארים מתקדמים)",
   "prereqIds": []
  },
  {
@@ -5602,9 +5602,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "מופיע בקטלוג הקורסים; אומת 07/2026 (מספור 203-1 = תואר ראשון)",
   "prereqIds": []
  },
  {
@@ -5633,9 +5633,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "מופיע בקטלוג קורסי המחלקה (מספור 203-2 = תארים מתקדמים)",
   "prereqIds": []
  },
  {
@@ -5664,9 +5664,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "קורס חובה בהתמחות אסטרופיזיקה ב-MSc לפי שנתון 2025-26",
   "prereqIds": []
  },
  {
@@ -5695,9 +5695,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "קורס חובה בהתמחות אסטרופיזיקה ב-MSc לפי שנתון 2025-26; אין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -5726,9 +5726,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "סדרת הסמינרים 203-2-4681/2/3 נדרשת בהתמחות אסטרופיזיקה לפי השנתון",
   "prereqIds": []
  },
  {
@@ -5745,7 +5745,7 @@
    "חישה מרחוק ולוויינים"
   ],
   "url": "https://cris.bgu.ac.il/en/equipments/earth-and-planetary-image-facility/",
-  "notes": "מעבדה רב-תחומית; תחנת קליטת לוויינים; משרד תמיכה של UN-SPIDER; מסונפת ל-RPIF של NASA. אומת ב-CRIS: בלומברג PI; ממן Research Associate ומנהלת; שיוך מחלקתי עדכני: מדעי הסביבה, גאואינפורמטיקה ותכנון ערים",
+  "notes": "מעבדה רב-תחומית; תחנת קליטת לוויינים; משרד תמיכה של UN-SPIDER; מסונפת ל-RPIF של NASA. אומת ב-CRIS: בלומברג PI; ממן Research Associate ומנהלת; שיוך מחלקתי עדכני: מדעי הסביבה, גאואינפורמטיקה ותכנון ערים | עדכון 8/2026: ד\"ר שמרית ממן מונתה לעמוד בראש סוכנות החלל הישראלית (פורסם באתר BGU); היא ממשיכה להיות מזוהה עם EPIF כמדענית בכירה",
   "ok": true,
   "src": "ours",
   "year": null,
@@ -5758,8 +5758,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "פעיל בפורטל CRIS, ב-UN-SPIDER וב-ResearchGate; תוכניות חינוך (She Space) פעילות",
   "prereqIds": []
  },
  {
@@ -5789,8 +5789,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "רשומה כציוד פעיל של EPIF בפורטל המחקר CRIS; נותרה תשתית קליטה גם אחרי סיום BGUSAT",
   "prereqIds": []
  },
  {
@@ -5820,8 +5820,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "closed",
+  "statusNote": "פרויקט מורשת שהסתיים: הלוויין דעך מהמסלול ב-24.2.2023 לאחר כ-6 שנות פעילות (Nanosats Database, ויקיפדיה); תחנת הקרקע נותרה פעילה ב-EPIF",
   "prereqIds": []
  },
  {
@@ -5851,8 +5851,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד התואר פעיל בקטלוג הרישום הנוכחי של האוניברסיטה, כולל לימודי GIS וחישה מרחוק",
   "prereqIds": []
  },
  {
@@ -5882,8 +5882,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אתר המעבדה karnieli-rsl.com פעיל; פרסומים ב-2025 (ניטור קרום ביולוגי בלוויין, חבילת rOPTRAM)",
   "prereqIds": []
  },
  {
@@ -5913,8 +5913,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "uncertain",
+  "statusNote": "משימת VENµS הסתיימה רשמית ב-30.8.2024 עם גמר הדלק (CNES, Israel Defense); אתר המעבדה עדיין מציג את המרכז ואת ארכיון התמונות, אך לא ברור אם המרכז ממשיך לפעול מעבר לארכוב והפצת נתונים היסטוריים",
   "prereqIds": []
  },
  {
@@ -5943,9 +5943,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "בדיקה קלה: עמודי התואר השני של BGU מציגים מסלול התמחות אלקטרואופטיקה בהנדסת חשמל ומחשבים גם היום; ידיעוני תשפ\"ו זמינים בעמוד השנתונים של הפקולטה",
   "prereqIds": []
  },
  {
@@ -5975,8 +5975,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "ארנון פעיל ומפרסם ב-2026 (מאמר על קישורי לוויין, Electronics 2026); עמוד הבית שלו ופורטל CRIS מזהים אותו כמנהל ה-SWCL",
   "prereqIds": []
  },
  {
@@ -6006,8 +6006,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "רוטמן פרופ' מן המניין פעיל; פרסומים בגילוי מטרות היפרספקטרלי ב-2025 (Sensors 1/2025, SPIE 10/2025)",
   "prereqIds": []
  },
  {
@@ -6037,8 +6037,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד הסגל של ד\"ר עוז קירה פעיל; מוביל קבוצת מחקר בחישה סביבתית וחישה מרחוק לוויינית לפי CRIS ופרסומים עדכניים",
   "prereqIds": []
  },
  {
@@ -6067,9 +6067,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול ידיעון תשפ\"ו; המרצה ארנון פעיל בתשפ\"ו-2026; לא נמצאו סימני ביטול. מספר 361-1 = רמת תואר ראשון",
   "prereqIds": []
  },
  {
@@ -6098,9 +6098,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול ידיעון תשפ\"ו; אין סימני סגירה; מספר 361-2 = קורס תארים מתקדמים",
   "prereqIds": []
  },
  {
@@ -6129,9 +6129,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול ידיעון תשפ\"ו (קורס בחירה בתואר שני אלקטרואופטיקה); אין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -6160,9 +6160,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול ידיעון ותוכנית הלימודים תשפ\"ו; תוכנית שנתית תשפ\"ו (09/2025) זמינה באתר; אין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -6191,9 +6191,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול ידיעון תשפ\"ו; אין סימני סגירה. מספר 361-2 (רמת מוסמך) המופיע גם כבחירה במסלול תואר ראשון גלים א\"מ/אנטנות",
   "prereqIds": []
  },
  {
@@ -6222,9 +6222,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול ידיעון תשפ\"ו; אין סימני סגירה; מספר 361-1 = תואר ראשון",
   "prereqIds": []
  },
  {
@@ -6253,9 +6253,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול ידיעון תשפ\"ו כמעבדת חובת מסלול; אין סימני סגירה; מספר 361-1 = תואר ראשון",
   "prereqIds": []
  },
  {
@@ -6285,8 +6285,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "שפירא פרופ' מן המניין, מנהל המעבדה לרובוטיקה ובקרה וראש מרכז פול איבנייר; פרסומים ב-2025; עמוד CRIS פעיל",
   "prereqIds": []
  },
  {
@@ -6316,8 +6316,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "עמוד המעבדה ב-CRIS פעיל; סייג מפרסם בדינמיקת זורמים גיאופיזית (JFM, נובמבר 2025)",
   "prereqIds": []
  },
  {
@@ -6347,8 +6347,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "מסלול ההתמחות מערכות זרימה מופיע באתרי מידע ללימודים עדכניים; המחלקה פרסמה שנתון תשפ\"ו (362-2026); אין סימני ביטול",
   "prereqIds": []
  },
  {
@@ -6378,8 +6378,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "בדיקה קלה: מסמכי המרכז זמינים באתר BGU והמרכז מופיע כשיוך בפרסומים; אין סימני סגירה",
   "prereqIds": []
  },
  {
@@ -6408,9 +6408,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ידיעון תשפ\"ב); שנתון מחלקתי תשפ\"ו קיים (362-2026); לא נמצאו סימני ביטול בחיפוש",
   "prereqIds": []
  },
  {
@@ -6439,9 +6439,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ידיעון תשפ\"ב, בחירה במסלול מערכות זרימה); שנתון תשפ\"ו קיים; לא נמצאו סימני ביטול",
   "prereqIds": []
  },
  {
@@ -6470,9 +6470,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ידיעון תשפ\"ב); שנתון תשפ\"ו קיים; לא נמצאו סימני ביטול; מספר 362-1 = תואר ראשון",
   "prereqIds": []
  },
  {
@@ -6501,9 +6501,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ידיעון תשפ\"ב, קורס תואר שני); שנתון תשפ\"ו קיים; לא נמצאו סימני ביטול",
   "prereqIds": []
  },
  {
@@ -6532,9 +6532,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ידיעון תשפ\"ב, קורס תואר שני); שנתון תשפ\"ו קיים; לא נמצאו סימני ביטול",
   "prereqIds": []
  },
  {
@@ -6563,9 +6563,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ידיעון תשפ\"ב, עמ' 18); שנתון תשפ\"ו קיים; לא נמצאו סימני ביטול; מספר 362-1 = תואר ראשון",
   "prereqIds": []
  },
  {
@@ -6594,9 +6594,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול תוכנית תשפ\"ו; המרצה ארנון פעיל ומפרסם ב-2026 בתחום קישורי לוויין; מספר 361-2 = תארים מתקדמים",
   "prereqIds": []
  },
  {
@@ -6626,8 +6626,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת כפעיל בביקורת 7/2026 (ok); וקסמן הוא PI של ULTRASAT לקראת שיגור מתוכנן ב-2027 ומנהל מרכז בנוזיו — אין סימני סגירה; בדיקה מקוונת חוזרת ב-8/2026 לא התאפשרה (חסימת רשת מלאה).",
   "prereqIds": []
  },
  {
@@ -6657,8 +6657,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026; קבוצה מרכזית ב-ULTRASAT וב-WAO ובעלת פעילות תצפיתית שוטפת — אין אינדיקציה לסגירה; אימות מקוון חוזר ב-8/2026 נחסם על-ידי פרוקסי הרשת.",
   "prereqIds": []
  },
  {
@@ -6688,8 +6688,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026; חבר סגל קבוע במחלקה לפיזיקה של חלקיקים ואסטרופיזיקה — אין אינדיקציה לשינוי; בדיקה מקוונת חוזרת ב-8/2026 לא התאפשרה (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -6706,7 +6706,7 @@
    "פיזיקה ואסטרופיזיקה / אסטרונומיה"
   ],
   "url": "https://www.weizmann.ac.il/particle/katz/home",
-  "notes": "קורס הנלמד במסגרת הקבוצה (פוצל משורת המעבדה בבדיקת האיכות)",
+  "notes": "קורס הנלמד במסגרת הקבוצה (פוצל משורת המעבדה בבדיקת האיכות) | עדכון 8/2026: רמת התואר נקבעה מבנית: מכון ויצמן מלמד אך ורק בבית הספר פיינברג לתארים מתקדמים (M.Sc./Ph.D.) — אין בו תואר ראשון.",
   "ok": true,
   "src": "ours",
   "year": null,
@@ -6718,9 +6718,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 כקורס פעיל; בדיקה חוזרת ב-8/2026 נחסמה (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -6750,8 +6750,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026; חבר סגל פעיל בתחום סופרנובות וגלי כבידה — אין סימני סגירה; אימות מקוון חוזר ב-8/2026 לא התאפשר (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -6781,8 +6781,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026; חבר סגל קבוע, קבוצה פעילה בחומר אפל וקוסמולוגיה; בדיקה מקוונת חוזרת ב-8/2026 נחסמה על-ידי פרוקסי הרשת.",
   "prereqIds": []
  },
  {
@@ -6812,8 +6812,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (כולל עדכון תואר ד\"ר→פרופ' בעמוד הסגל); שיתוף XENONnT נמשך — אין סימני סגירה; אימות חוזר ב-8/2026 לא התאפשר (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -6843,8 +6843,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026; מוביל מערך LAST הפעיל ב-WAO — אין אינדיקציה לסגירה; בדיקה מקוונת חוזרת ב-8/2026 נחסמה.",
   "prereqIds": []
  },
  {
@@ -6861,7 +6861,7 @@
    "פיזיקה ואסטרופיזיקה / אסטרונומיה"
   ],
   "url": "https://www.weizmann.ac.il/physics/ofek/eran-ofeks-group",
-  "notes": "קורס הנלמד במסגרת הקבוצה (פוצל משורת המעבדה בבדיקת האיכות)",
+  "notes": "קורס הנלמד במסגרת הקבוצה (פוצל משורת המעבדה בבדיקת האיכות) | עדכון 8/2026: רמת התואר נקבעה מבנית: כל הקורסים בויצמן ניתנים בבית הספר פיינברג לתארים מתקדמים בלבד.",
   "ok": true,
   "src": "ours",
   "year": null,
@@ -6873,9 +6873,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 כקורס פעיל לפי רישום הקורסים של מרכז בנוזיו; בדיקה חוזרת ב-8/2026 נחסמה (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -6905,8 +6905,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026; PI-שותף של LAST ובונה ספקטרוגרפים ל-MAST; דף קבוצה ייעודי עדיין לא אותר — חיפוש חוזר ב-8/2026 לא התאפשר (חסימת רשת ומיצוי תקציב חיפוש).",
   "prereqIds": []
  },
  {
@@ -6936,8 +6936,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אמריטוס פעיל מדעית — פרסומי MOND מ-2025–2026 תועדו בביקורת 7/2026 (arXiv:2503.07106; Phys. Rev. D 2026); בדיקה מקוונת חוזרת ב-8/2026 נחסמה.",
   "prereqIds": []
  },
  {
@@ -6967,8 +6967,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמוד ה-About הרשמי של המרכז; מרכז-גג פעיל מ-2007 — אין סימני סגירה; אימות חוזר ב-8/2026 לא התאפשר (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -6998,8 +6998,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 כולל עדכון העומדת בראש המכון (פרופ' נירית דודוביץ') לפי Pure; אין אינדיקציה לסגירה; בדיקה חוזרת ב-8/2026 נחסמה.",
   "prereqIds": []
  },
  {
@@ -7029,8 +7029,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "פרויקט דגל בעיצומו לקראת שיגור מתוכנן ב-Q4 2027 (ISA, ויצמן, DESY, NASA); אומת בביקורת 7/2026 — אין סימני ביטול; אימות מקוון חוזר ב-8/2026 נחסם.",
   "prereqIds": []
  },
  {
@@ -7060,8 +7060,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026; מצפה פעיל בנאות סמדר המארח את LAST, MAST ו-W-FAST; בדיקה מקוונת חוזרת ב-8/2026 לא התאפשרה (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -7091,8 +7091,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026; מערך 32 הטלסקופים פעיל וסוקר ב-WAO — אין סימני סגירה; אימות חוזר ב-8/2026 נחסם.",
   "prereqIds": []
  },
  {
@@ -7122,8 +7122,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026; פרויקט בשלבי בנייה מתקדמים ב-WAO (ספקטרוגרפים DeepSpec ו-HighSpec) — אין סימני עצירה; בדיקה חוזרת ב-8/2026 נחסמה.",
   "prereqIds": []
  },
  {
@@ -7153,8 +7153,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 כמתקן פעיל ב-WAO; אימות מקוון חוזר ב-8/2026 לא התאפשר (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -7184,8 +7184,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026; מצפה קמפוס פעיל מ-2011 בניהול מדעי של גל-ים; אין אינדיקציה לסגירה; בדיקה חוזרת ב-8/2026 נחסמה.",
   "prereqIds": []
  },
  {
@@ -7215,8 +7215,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 עם פרסומים 2024–2025 לפי Pure; אימות מקוון חוזר ב-8/2026 לא התאפשר (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -7233,7 +7233,7 @@
    "פיזיקה ואסטרופיזיקה / אסטרונומיה"
   ],
   "url": "https://www.weizmann.ac.il/complex/falkovich/",
-  "notes": "קורס הנלמד במסגרת הקבוצה (פוצל משורת המעבדה בבדיקת האיכות)",
+  "notes": "קורס הנלמד במסגרת הקבוצה (פוצל משורת המעבדה בבדיקת האיכות) | עדכון 8/2026: רמת התואר נקבעה מבנית: קורסי ויצמן ניתנים בבית הספר פיינברג לתארים מתקדמים בלבד.",
   "ok": true,
   "src": "ours",
   "year": null,
@@ -7245,9 +7245,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 כקורס פעיל במסגרת הקבוצה; בדיקה חוזרת ב-8/2026 נחסמה (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -7277,8 +7277,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 כולל תיקון שיוך מחלקתי לפי Pure ופרסום מ-2026; אמריטוס פעיל מדעית; אימות מקוון חוזר ב-8/2026 נחסם.",
   "prereqIds": []
  },
  {
@@ -7308,8 +7308,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "מעבדה פעילה של חבר סגל בכיר (ראש המחלקה); אושר בביקורת 7/2026. בדיקה מקוונת חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת מלאה; אין אותות סגירה מתועדים.",
   "prereqIds": []
  },
  {
@@ -7339,8 +7339,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "קבוצת מחקר פעילה של חבר סגל בכיר; אושר בביקורת 7/2026. בדיקה מקוונת חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7369,9 +7369,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אושר בביקורת 7/2026 מול עמוד ההוראה של קבוצת כספי; קורס לתלמידי מוסמך/דוקטורט. בדיקה חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7401,8 +7401,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "מעבדה פעילה של חבר סגל בכיר; אושר בביקורת 7/2026. בדיקה מקוונת חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7432,8 +7432,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "מעבדה פעילה של חבר סגל בכיר, מוביל משימת CloudCT; אושר בביקורת 7/2026. בדיקה מקוונת חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7463,8 +7463,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אושר בביקורת 7/2026 מול עמוד ה-About הרשמי של המרכז (centers.weizmann.ac.il/kimmel-planetary); פועל משנת 2011. בדיקה חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7494,8 +7494,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אושר בביקורת 7/2026 מול אתר קרן מינרווה הרשמי (minerva.mpg.de); פועל משנת 2013. בדיקה חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7525,8 +7525,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אושר בביקורת 7/2026 מול CORDIS (פרויקט ERC Synergy מס' 810370, תחילה 8/2019); בדיקה חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7556,8 +7556,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אושר בביקורת 7/2026 מול עמוד משימות החלל של קבוצת כספי; משימת Juno עודנה פעילה סביב צדק. בדיקה חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7574,7 +7574,7 @@
    "מדעי כדור הארץ והאטמוספירה"
   ],
   "url": "https://www.weizmann.ac.il/EPS/kaspi/research-activities/space-missions",
-  "notes": "co-PI של ניסוי המדע האטמוספירי במשימת JUICE של ESA",
+  "notes": "co-PI של ניסוי המדע האטמוספירי במשימת JUICE של ESA | עדכון 8/2026: משימת Cassini הסתיימה ב-2017; הרישום מתעד את החברות ההיסטורית בצוות לצד התפקיד הפעיל ב-JUICE.",
   "ok": true,
   "src": "ours",
   "year": null,
@@ -7587,8 +7587,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אושר בביקורת 7/2026 מול עמוד משימות החלל של קבוצת כספי; JUICE בדרכה לצדק (הגעה מתוכננת 2031), כספי co-PI בניסוי האטמוספירי. בדיקה חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7605,7 +7605,7 @@
    "מדעי כדור הארץ והאטמוספירה"
   ],
   "url": "https://wis-wander.weizmann.ac.il/space-physics/beresheet-lunar-landing-site-revealed-0",
-  "notes": "בחירת אתר הנחיתה; ניתוח מגנטומטר SILMAG. בראשית שוגרה 22.2.2019",
+  "notes": "בחירת אתר הנחיתה; ניתוח מגנטומטר SILMAG. בראשית שוגרה 22.2.2019 | עדכון 8/2026: משימת בראשית עצמה הסתיימה באפריל 2019 (התרסקות בנחיתה); הערך מתעד מעורבות מדעית אקדמית ולא משימה מתמשכת.",
   "ok": true,
   "src": "ours",
   "year": null,
@@ -7618,8 +7618,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אושר בביקורת 7/2026; הרישום מתעד את המעורבות המדעית (בחירת אתר הנחיתה וניתוח נתוני SILMAG). בדיקה חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7649,8 +7649,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "תוכנית קבועה של ביה\"ס לתארים מתקדמים ע\"ש פיינברג; אושר בביקורת 7/2026. בדיקה חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7680,8 +7680,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "תוכנית קבועה של ביה\"ס פיינברג במחלקת EPS; אושר בביקורת 7/2026. בדיקה חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7710,9 +7710,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אושר בביקורת 7/2026 מול עמוד הקורסים של פרופ' וקסמן; קורס לתלמידי מוסמך/דוקטורט. בדיקה חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7741,9 +7741,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אושר בביקורת 7/2026 מול עמוד הקורסים של פרופ' וקסמן; קורס המשך לתלמידי מחקר. בדיקה חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7772,9 +7772,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אושר בביקורת 7/2026 מול עמוד הקורסים של פרופ' וקסמן; קורס מתקדם לתלמידי מחקר. בדיקה חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7803,9 +7803,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אושר בביקורת 7/2026 מול עמוד ההוראה של קבוצת כספי; קורס לתלמידי מוסמך/דוקטורט במחלקת EPS. בדיקה חוזרת ב-8/2026 לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7835,8 +7835,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ok); קבוצת מחקר יציבה של חבר סגל קבוע. בדיקת רשת חוזרת לא התאפשרה החודש (חסימת egress מלאה) ולא נמצאו סימני סגירה בחומר המקומי.",
   "prereqIds": []
  },
  {
@@ -7866,8 +7866,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ok); PI פעיל ב-LIGO Scientific Collaboration. בדיקת רשת חוזרת לא התאפשרה החודש בשל חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7897,8 +7897,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ok); חברת סגל בכירה שהצטרפה ב-2021 ומובילה קבוצה פעילה. בדיקת רשת חוזרת לא התאפשרה החודש בשל חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7928,8 +7928,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ok); מעבדת סגל ותיקה בתחום חישה מרחוק. בדיקת רשת חוזרת לא התאפשרה החודש בשל חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7959,8 +7959,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "דוקטורט",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ok); אסטרופיזיקה מוגדרת כתחום מחקר לדוקטורט במחלקה שבה שלושה חברי סגל פעילים בתחום. בדיקת רשת חוזרת לא התאפשרה החודש בשל חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -7990,8 +7990,8 @@
   "prereq": "Introduction to Modern Physics 86170-01 Mechanics 86115-01+",
   "mandatory": "קורס בחירה",
   "degree": "פתוח לכולם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ok); לפי המיפוי הידני של רקיע הקורס מועבר כל שנה, מיועד בעיקר לתארים מתקדמים ופתוח לשנה ג' בתואר ראשון. בדיקת רשת חוזרת לא התאפשרה החודש בשל חסימת רשת.",
   "prereqIds": [
    263
   ]
@@ -8023,8 +8023,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ok); מגמה מוסדרת בתוכנית תואר שני קיימת. בדיקת רשת חוזרת לא התאפשרה החודש בשל חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -8054,8 +8054,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ok); מסלול רשמי בפקולטה להנדסה שעמודו אומת בביקורת הקודמת. בדיקת רשת חוזרת לא התאפשרה החודש בשל חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -8085,8 +8085,8 @@
   "prereq": "מכניקה (86115) או פיזיקה 1(83102) או פיסיקה כללית לכימאים א' (84181) וגם גלים (86209) או משוואות דיפרנציאליות חלקיות (83215) או מתמטיקה לכימאים ג' (84273) וגם מבוא לפיסיקה מודרנית (86170) או תורת הקוונטים 1 (86311) או מכניקה קוונטית שימושית (83204) או מבוא למכניקת הקוונטים א' (84225) וגם תרמודינמיקה ומכניקה סטטיסטית 1 (86215) או תרמודינמיקה ישומית (83644) או כימיה פיזיקלית ב' (84210)",
   "mandatory": "קורס בחירה",
   "degree": "פתוח לכולם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ok); לפי המיפוי הידני של רקיע הקורס מועבר כל שנה. בדיקת רשת חוזרת לא התאפשרה החודש בשל חסימת רשת.",
   "prereqIds": [
    263
   ]
@@ -8118,8 +8118,8 @@
   "prereq": "תרמודינמיקה ומכניקה סטטיסטית 1 (86215) או תרמודינמיקה ישומית (83644) או כימיה פיזיקלית ב' (84210) וגם גלים (86209) או משוואות דיפרנציאליות חלקיות (83215) או מתמטיקה לכימאים ג' (84273) וגם מבוא לפיסיקה מודרנית (86170) או תורת הקוונטים 1 (86311) או מכניקה קוונטית שימושית (83204) או מבוא למכניקת הקוונטים א' (84225) מומלץ: מבוא לאסטרונומיה ואסטרופיסיקה ו/או יחסות כללית",
   "mandatory": "קורס בחירה",
   "degree": "פתוח לכולם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "uncertain",
+  "statusNote": "ok:false בביקורת הקודמת. לפי המיפוי הידני של רקיע הקורס הועבר לראשונה ב-2024 ותוכנן לחזור בשנה העוקבת, אך 'לא ברור האם יועבר כל שנה'. לא ניתן היה לאמת מול קטלוג תשפ\"ו בשל חסימת רשת מלאה בסשן זה — אין ראיה לסגירה אך גם לא לאישור הצעה נוכחית.",
   "prereqIds": [
    263
   ]
@@ -8151,8 +8151,8 @@
   "prereq": "פיזיקה סטטיסטית ותרמית (נלמד במקביל) חשמל ומגנטיות",
   "mandatory": "קורס בחירה",
   "degree": "פתוח לכולם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ok); לפי המיפוי הידני של רקיע הקורס מועבר לסירוגין (שנה כן שנה לא, מתחלף עם 86351) — דפוס הצעה סדיר ולא סימן סגירה. בדיקת רשת חוזרת לא התאפשרה החודש בשל חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -8182,8 +8182,8 @@
   "prereq": "פיסיקה מודרנית (יחסות פרטית) מכניקה קוונטית (נלמד במקביל)",
   "mandatory": "קורס בחירה",
   "degree": "פתוח לכולם",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ok); לפי המיפוי הידני של רקיע מועבר לסירוגין (מתחלף עם פיזיקת פלזמה 86677) — דפוס הצעה סדיר. בדיקת רשת חוזרת לא התאפשרה החודש בשל חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -8213,8 +8213,8 @@
   "prereq": "3 הקורסים הראשונים במכניקה, אלגברה לינארית וחדו\"א/אינפי. בנוסף הקורס משתלב עם למידה במקביל של הקורס הראשון בחשמל ומגנטיות, ורצוי אך לא הכרחי רקע בסיסי (או קורס מקביל) בהסתברות",
   "mandatory": "קורס חובה",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (ok); קורס חובה לשנה א' במחלקה לפיזיקה לפי המיפוי הידני של רקיע. בדיקת רשת חוזרת לא התאפשרה החודש בשל חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -8244,8 +8244,8 @@
   "prereq": "Advanced quantum mechanics",
   "mandatory": "קורס בחירה",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "uncertain",
+  "statusNote": "ok:false בביקורת הקודמת. לפי המיפוי הידני של רקיע הקורס מועבר רק פעם ב-2-3 שנים (תואר שני), ואין לו URL סילבוס ברשומה. לא ניתן היה לאמת הצעה נוכחית מול הקטלוג בשל חסימת רשת מלאה — אין ראיה לסגירה, אך ההצעה הנוכחית לא אושרה. הערת רקיע: הקשר לחלל עקיף אך רלוונטי לאסטרופיזיקה תיאורטית.",
   "prereqIds": []
  },
  {
@@ -8275,8 +8275,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת כפעיל בביקורת 7/2026 (ok:true); בדיקה חוזרת לא התאפשרה — כל הגישה לרשת נחסמה בסשן זה. לא נמצאו סימני סגירה.",
   "prereqIds": []
  },
  {
@@ -8306,8 +8306,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת כפעיל בביקורת 7/2026 מעמוד הסגל של ביה\"ס למדעי הים; בדיקה חוזרת לא התאפשרה עקב חסימת רשת מלאה.",
   "prereqIds": []
  },
  {
@@ -8337,8 +8337,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "מצפה שנחנך ב-2022 ואומת בביקורת 7/2026 מהאתר הרשמי; בדיקה חוזרת לא התאפשרה עקב חסימת רשת מלאה.",
   "prereqIds": []
  },
  {
@@ -8368,8 +8368,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מאתר החוג לפיזיקה; בדיקה חוזרת לא התאפשרה עקב חסימת רשת מלאה.",
   "prereqIds": []
  },
  {
@@ -8399,8 +8399,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מאתר הקבוצה; בדיקה חוזרת לא התאפשרה עקב חסימת רשת מלאה.",
   "prereqIds": []
  },
  {
@@ -8430,8 +8430,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מעמוד המתעניינים הרשמי; בדיקה חוזרת לא התאפשרה עקב חסימת רשת מלאה.",
   "prereqIds": []
  },
  {
@@ -8461,8 +8461,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מעמוד המתעניינים הרשמי (הקישור עודכן אז); בדיקה חוזרת לא התאפשרה עקב חסימת רשת מלאה.",
   "prereqIds": []
  },
  {
@@ -8492,8 +8492,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מאתר ביה\"ס למדעי הים; בדיקה חוזרת לא התאפשרה עקב חסימת רשת מלאה.",
   "prereqIds": []
  },
  {
@@ -8510,7 +8510,7 @@
    "פיזיקה ואסטרופיזיקה / אסטרונומיה"
   ],
   "url": "https://physics.haifa.ac.il/astrophysics/?lang=en",
-  "notes": "מאומת חלקית: באתר הרשמי של החוג מוצגת קבוצת אסטרופיזיקה פעילה והחוג מנחה תלמידי מחקר (דוקטורנטים); עם זאת, תוכנית תואר שני או מסלול אסטרופיזיקה ייעודי אינם מפורסמים בשנתון תשפ\"ו או באתר החוג. נדרש בירור מול מזכירות החוג לפני הצגה כתוכנית תואר",
+  "notes": "מאומת חלקית: באתר הרשמי של החוג מוצגת קבוצת אסטרופיזיקה פעילה והחוג מנחה תלמידי מחקר (דוקטורנטים); עם זאת, תוכנית תואר שני או מסלול אסטרופיזיקה ייעודי אינם מפורסמים בשנתון תשפ\"ו או באתר החוג. נדרש בירור מול מזכירות החוג לפני הצגה כתוכנית תואר | עדכון 8/2026: כתחום מחקר במסגרת תארים מתקדמים בפיזיקה קיומו סביר, אך אין אסמכתה לתוכנית פורמלית נפרדת.",
   "ok": false,
   "src": "ours",
   "year": null,
@@ -8523,8 +8523,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "uncertain",
+  "statusNote": "הבדיקה המעמיקה שנדרשה (ok:false) לא התאפשרה — חסימת רשת מלאה בסשן. לפי הביקורת הקודמת: קבוצת האסטרופיזיקה פעילה והחוג מנחה תלמידי מחקר, אך מסלול/תוכנית אסטרופיזיקה ייעודית אינה מפורסמת בשנתון תשפ\"ו או באתר החוג. נדרש בירור מול מזכירות החוג לפיזיקה.",
   "prereqIds": []
  },
  {
@@ -8554,8 +8554,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "מופיע בשנתון תשפ\"ו לפי ביקורת 7/2026; בדיקה חוזרת ובירור רמת הקורס לא התאפשרו עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -8585,8 +8585,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "מופיע בשנתון תשפ\"ו לפי ביקורת 7/2026; בדיקה חוזרת ובירור רמת הקורס לא התאפשרו עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -8603,7 +8603,7 @@
    "חישה מרחוק ולוויינים"
   ],
   "url": "https://shnaton2026.haifa.ac.il/201-גאוגרפיה-ולימודי-סביבה/",
-  "notes": "שנתון תשפ\"ו; דנטה עוסק גם באלטימטריה לווייני",
+  "notes": "שנתון תשפ\"ו; דנטה עוסק גם באלטימטריה לווייני | עדכון 8/2026: רמת התואר נקבעה לפי מוסכמת רמות: קורס 'מבוא' בחוג לגאוגרפיה הוא קורס חובה בתואר ראשון; לא אומת מול השנתון בסשן זה.",
   "ok": true,
   "src": "ours",
   "year": null,
@@ -8615,9 +8615,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "מופיע בשנתון תשפ\"ו לפי ביקורת 7/2026; בדיקה חוזרת לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -8647,8 +8647,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "מופיע בשנתון תשפ\"ו לפי ביקורת 7/2026; בדיקה חוזרת ובירור רמת הקורס לא התאפשרו עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -8677,9 +8677,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "לפי ביקורת 7/2026: קורס בחירה בתואר שני במדעים גאו-ימיים (מסלול ב', ללא תזה) בשנתון תשפ\"ו — ומכאן רמת התואר; בדיקה חוזרת לא התאפשרה עקב חסימת רשת.",
   "prereqIds": []
  },
  {
@@ -8709,8 +8709,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול האתר הרשמי ומול AFOUI (המרכז פועל מ-2021, שותף ב-ARIEL, PLATO, SKA, LOFAR); בדיקה חוזרת כעת לא התאפשרה עקב חסימת רשת מלאה — לא נמצאו סימני סגירה",
   "prereqIds": []
  },
  {
@@ -8740,8 +8740,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת ישירות מול רשימת האנשים הרשמית באתר ARCO בביקורת 7/2026; בדיקה חוזרת לא התאפשרה עקב חסימת רשת",
   "prereqIds": []
  },
  {
@@ -8758,7 +8758,7 @@
    "פיזיקה ואסטרופיזיקה / אסטרונומיה"
   ],
   "url": "https://www.openu.ac.il/en/personalsites/pazbeniamini.aspx",
-  "notes": "התפרצויות קרני גמא, הבזקי רדיו מהירים, מגנטארים, כוכבי נייטרון. עודכן: פרופסור חבר מ-2024 (בעבר ד\"ר) לפי עמודו הרשמי באו\"פ; לפי אתרו ודיווחים 2025-26 עומד כיום בראש מרכז ARCO (עמוד ARCO הרשמי של האו\"פ עדיין מציין את פרופ' סלים זרובי כראש המרכז). הקישור הוחלף מ-afoui.org (אגודת הידידים האמריקאית) לעמוד הרשמי",
+  "notes": "התפרצויות קרני גמא, הבזקי רדיו מהירים, מגנטארים, כוכבי נייטרון. עודכן: פרופסור חבר מ-2024 (בעבר ד\"ר) לפי עמודו הרשמי באו\"פ; לפי אתרו ודיווחים 2025-26 עומד כיום בראש מרכז ARCO (עמוד ARCO הרשמי של האו\"פ עדיין מציין את פרופ' סלים זרובי כראש המרכז). הקישור הוחלף מ-afoui.org (אגודת הידידים האמריקאית) לעמוד הרשמי | עדכון 8/2026: ייתכן חילוף בראשות ARCO (בנימיני במקום זרובי) — דורש אימות עתידי מול עמוד ARCO הרשמי",
   "ok": true,
   "src": "ours",
   "year": null,
@@ -8771,8 +8771,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמודו הרשמי באו\"פ (פרופ' חבר מ-2024; לפי דיווחים 2025-26 עומד כיום בראש ARCO); בדיקה חוזרת לא התאפשרה עקב חסימת רשת",
   "prereqIds": []
  },
  {
@@ -8802,8 +8802,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 (חוקרת במרכז ARCO, שותפה בשליחות ARIEL); בדיקה חוזרת לא התאפשרה עקב חסימת רשת",
   "prereqIds": []
  },
  {
@@ -8833,8 +8833,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמוד ARCO; בדיקה חוזרת לא התאפשרה עקב חסימת רשת",
   "prereqIds": []
  },
  {
@@ -8864,8 +8864,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תארים מתקדמים",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמוד התוכנית הרשמי (התוכנית הראשונה מסוגה בישראל, כוללת תזה במסגרת ARCO); בדיקה חוזרת לא התאפשרה עקב חסימת רשת",
   "prereqIds": []
  },
  {
@@ -8895,8 +8895,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול עמוד התוכנית הרשמי; התוכנית כוללת את הקורס 'פרקים באסטרופיסיקה' (20968); בדיקה חוזרת לא התאפשרה עקב חסימת רשת",
   "prereqIds": []
  },
  {
@@ -8925,9 +8925,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "פתוח לכולם",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מול דף הקורס הרשמי; קורס ברמת פתיחה (4 נק\"ז) ללא דרישות קדם, פתוח לכל נרשם בהתאם למודל הקבלה הפתוחה של האו\"פ; בדיקה חוזרת לא התאפשרה עקב חסימת רשת",
   "prereqIds": []
  },
  {
@@ -8956,9 +8956,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 בדף הקורס בקטלוג הרשמי כקורס בחירה בתואר השני באסטרופיזיקה (מסומן 'הקורס בפיתוח'); בדיקה חוזרת לא התאפשרה עקב חסימת רשת",
   "prereqIds": []
  },
  {
@@ -8987,9 +8987,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תארים מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 בדף הקורס בקטלוג הרשמי כקורס בחירת-חובה בתואר השני באסטרופיזיקה; בדיקה חוזרת לא התאפשרה עקב חסימת רשת",
   "prereqIds": []
  },
  {
@@ -9018,9 +9018,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון + מתקדמים",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 בדף הקורס בקטלוג הרשמי כקורס בחירה מתקדם לתואר ראשון בפיזיקה ולתואר שני באסטרופיזיקה; בדיקה חוזרת לא התאפשרה עקב חסימת רשת",
   "prereqIds": []
  },
  {
@@ -10042,8 +10042,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "uncertain",
+  "statusNote": "לא התאפשרה בדיקה עצמאית (חסימת רשת מלאה בסשן זה). גם בתיעוד הקודם לא זוהו מעבדה או חוקר ייעודיים לאסטרופיזיקה — רק אזכור התחום בעמוד היחידה לפיזיקה; הקיום כמעבדה ייעודית נותר לא ודאי.",
   "prereqIds": []
  },
  {
@@ -10073,8 +10073,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "על סמך התיעוד הקודם בלבד: קיום המעבדה אומת מדף המעבדות הרשמי של המכללה ואין סימני סגירה ידועים. בדיקה חוזרת לא התאפשרה — גישת הרשת חסומה בסשן זה.",
   "prereqIds": []
  },
  {
@@ -10104,8 +10104,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "על סמך התיעוד הקודם בלבד: קיום שתי המעבדות אומת מדף המעבדות הרשמי של המכללה ואין סימני סגירה ידועים. בדיקה חוזרת לא התאפשרה — גישת הרשת חסומה בסשן זה.",
   "prereqIds": []
  },
  {
@@ -10135,8 +10135,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "על סמך התיעוד הקודם בלבד: קיום המעבדה אומת מדף המעבדות הרשמי (תחת הנדסת מכונות) ואין סימני סגירה ידועים. בדיקה חוזרת לא התאפשרה — גישת הרשת חסומה בסשן זה.",
   "prereqIds": []
  },
  {
@@ -10166,8 +10166,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "אומת בביקורת 7/2026 מעמוד התוכנית הרשמי ומהחלטת מל\"ג 2009; לא נמצאו אינדיקציות לסגירה. בדיקת סימני סגירה עדכנית לא התאפשרה (חסימת רשת בסשן זה).",
   "prereqIds": []
  },
  {
@@ -10198,8 +10198,8 @@
   "prereq": "",
   "mandatory": "",
   "degree": "תואר ראשון",
-  "status": "unverified",
-  "statusNote": "",
+  "status": "active",
+  "statusNote": "על סמך התיעוד הקודם: התוכנית וההתמחויות אומתו מעמוד התוכנית הרשמי; מדובר בתוכנית ליבה של מכללת הנדסה ואין סימני סגירה ידועים. בדיקה חוזרת לא התאפשרה (חסימת רשת בסשן זה).",
   "prereqIds": []
  },
  {
@@ -10228,9 +10228,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "מופיע בשנתון הנדסת חשמל 2025 (אומת בביקורת 7/2026). השנתון הוא של תוכנית ה-B.Sc — ולכן רמת התואר: תואר ראשון. בדיקת סימני סגירה עדכנית לא התאפשרה (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -10260,9 +10260,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "מופיע בשנתון 2025 במסלול אלקטרו-אופטיקה של תוכנית ה-B.Sc בהנדסת חשמל (אומת בביקורת 7/2026) — רמת התואר: תואר ראשון. בדיקת סימני סגירה עדכנית לא התאפשרה (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -10291,9 +10291,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "מופיע בשנתון הנדסת חשמל 2025 של תוכנית ה-B.Sc (אומת בביקורת 7/2026) — רמת התואר: תואר ראשון. בדיקת סימני סגירה עדכנית לא התאפשרה (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -10322,9 +10322,9 @@
   "credits": "",
   "prereq": "",
   "mandatory": "",
-  "degree": "",
-  "status": "unverified",
-  "statusNote": "",
+  "degree": "תואר ראשון",
+  "status": "active",
+  "statusNote": "מופיע בשנתון הנדסת חשמל 2025 של תוכנית ה-B.Sc (אומת בביקורת 7/2026) — רמת התואר: תואר ראשון. בדיקת סימני סגירה עדכנית לא התאפשרה (חסימת רשת).",
   "prereqIds": []
  },
  {
@@ -11012,5 +11012,315 @@
   "status": "unverified",
   "statusNote": "",
   "prereqIds": []
+ },
+ {
+  "n": 354,
+  "inst": "הטכניון",
+  "fac": "הפקולטה להנדסת אווירונאוטיקה וחלל",
+  "type": "תוכנית מיוחדת",
+  "name": "מועדון הרקטות של הטכניון (Technion Rocket Club)",
+  "lead": "",
+  "lect": "",
+  "person": "",
+  "dom": "הנדסת אוויר וחלל / אווירונאוטיקה",
+  "doms": [
+   "הנדסת אוויר וחלל / אווירונאוטיקה"
+  ],
+  "url": "https://aerospace.technion.ac.il/studies/technion-rocket-club/",
+  "notes": "אותר במחקר מקוון 8/2026; עמוד רשמי באתר הפקולטה להנדסת אווירונאוטיקה וחלל המתאר את המועדון וצוותיו ('the only student club in Israel that designs and builds its own rocket engines'); חשבונות פעילים באינסטגרם ובלינקדאין",
+  "ok": true,
+  "src": "ours",
+  "year": null,
+  "core": "core",
+  "what": "מועדון סטודנטים המתכנן, בונה ומשגר רקטות ומפתח מנועי רקטה היברידיים משלו — מועדון הסטודנטים היחיד בישראל שעושה זאת. פתוח לסטודנטים מכל הפקולטות ומאורגן בצוותי הנעה, מבנים, אוויוניקה ותפעול. פועל בגיבוי הפקולטה להנדסת אווירונאוטיקה וחלל.",
+  "why": "מכשיר בפועל את הדור הבא של מהנדסי הנעה רקטית — כוח אדם קריטי לתעשיית השיגור והחלל הישראלית.",
+  "rakia": false,
+  "code": "",
+  "degree": "",
+  "credits": "",
+  "prereq": "",
+  "prereqIds": [],
+  "mandatory": "",
+  "status": "active",
+  "statusNote": "אותר ואומת במחקר מקוון 8/2026"
+ },
+ {
+  "n": 355,
+  "inst": "הטכניון",
+  "fac": "הפקולטה להנדסת אווירונאוטיקה וחלל והפקולטה לפיזיקה",
+  "type": "תואר",
+  "name": "התוכנית המשותפת אווירו-פיסיקה (Joint Aerospace Engineering and Physics Program)",
+  "lead": "",
+  "lect": "",
+  "person": "",
+  "dom": "הנדסת אוויר וחלל / אווירונאוטיקה",
+  "doms": [
+   "הנדסת אוויר וחלל / אווירונאוטיקה"
+  ],
+  "url": "https://aerospace.technion.ac.il/studies/joint-program-aerospace-engineering-and-physics-departments/",
+  "notes": "אותר במחקר מקוון 8/2026; עמוד רשמי של התוכנית באתר הפקולטה להנדסת אווירונאוטיקה וחלל (מופיע בניווט הנוכחי של מדור הלימודים)",
+  "ok": true,
+  "src": "ours",
+  "year": null,
+  "core": "core",
+  "what": "תוכנית תואר כפול המשלבת לימודי הנדסת אווירונאוטיקה וחלל עם לימודי פיזיקה. מקנה עומק מדעי-תיאורטי לצד הכשרה הנדסית מלאה. מיועדת לסטודנטים חזקים השואפים למחקר ופיתוח בתחומי התעופה, החלל והאסטרופיזיקה.",
+  "why": "מסלול עילית המזין את מחקר החלל האקדמי ואת התעשייה הביטחונית-חללית במדענים-מהנדסים דו-תחומיים.",
+  "rakia": false,
+  "code": "",
+  "degree": "תואר ראשון",
+  "credits": "",
+  "prereq": "",
+  "prereqIds": [],
+  "mandatory": "",
+  "status": "active",
+  "statusNote": "אותר ואומת במחקר מקוון 8/2026"
+ },
+ {
+  "n": 356,
+  "inst": "הטכניון",
+  "fac": "הפקולטה להנדסת אווירונאוטיקה וחלל",
+  "type": "תוכנית מיוחדת",
+  "name": "תוכנית חשיפה והתנסות רב-תחומית בהנדסת מערכת – אוויר וחלל (Aerospace Systems Engineering Exposure Program)",
+  "lead": "",
+  "lect": "",
+  "person": "",
+  "dom": "הנדסת אוויר וחלל / אווירונאוטיקה",
+  "doms": [
+   "הנדסת אוויר וחלל / אווירונאוטיקה"
+  ],
+  "url": "https://aerospace.technion.ac.il/he/system-engineering-prog/",
+  "notes": "אותר במחקר מקוון 8/2026; עמוד רשמי באתר הפקולטה ('תכנית חשיפה והתנסות רב תחומית בהנדסת מערכת – אוויר חלל') ומסמך התוכנית בפורטל לימודי ההסמכה (ugportal, 2024): 4 קורסים, 10.5 נק', פתוח לכל הפקולטות",
+  "ok": true,
+  "src": "ours",
+  "year": null,
+  "core": "core",
+  "what": "תוכנית ייחודית לתלמידי הסמכה מכל הפקולטות בטכניון הכוללת ארבעה קורסים בהיקף 10.5 נקודות. מקנה חשיפה והתנסות מעשית בהנדסת מערכות מורכבות בתחומי האוויר והחלל, מנקודת מבטו של מהנדס מערכת המלווה את כל תהליכי הפיתוח.",
+  "why": "מכשירה מהנדסי מערכת לתחום האווירי-חללי — פרופיל מקצועי מבוקש במיוחד בתעשיות החלל והביטחון בישראל.",
+  "rakia": false,
+  "code": "",
+  "degree": "תואר ראשון",
+  "credits": "10.5 נק' (4 קורסים)",
+  "prereq": "",
+  "prereqIds": [],
+  "mandatory": "",
+  "status": "active",
+  "statusNote": "אותר ואומת במחקר מקוון 8/2026"
+ },
+ {
+  "n": 357,
+  "inst": "הטכניון",
+  "fac": "מכון אשר לחקר החלל (ASRI) והפקולטה להנדסת אווירונאוטיקה וחלל",
+  "type": "תוכנית מיוחדת",
+  "name": "פרויקט אדליס-סמסון (Adelis-SAMSON)",
+  "lead": "",
+  "lect": "",
+  "person": "פרופ' פיני גורפיל (Pini Gurfil)",
+  "dom": "רובוטיקה ומערכות חלל",
+  "doms": [
+   "רובוטיקה ומערכות חלל"
+  ],
+  "url": "http://dssl.technion.ac.il/Adelis-SAMSON",
+  "notes": "אותר במחקר מקוון 8/2026; עמוד הפרויקט באתר DSSL בטכניון; הודעות רשמיות של הטכניון, סוכנות החלל הישראלית ו-Gunter's Space Page על השיגור (מרץ 2021, בייקונור); לא נמצא מידע עדכני על סטטוס תפעול הלוויינים כיום — לכן הסטטוס השוטף לא ודאי",
+  "ok": true,
+  "src": "ours",
+  "year": 2021,
+  "core": "core",
+  "what": "משימת שלושה ננו-לוויינים בתקן 6U CubeSat שפותחה בהובלת מכון אשר ומעבדת DSSL ושוגרה למסלול במרץ 2021. המשימה הדגימה טיסת מבנה אוטונומית של להקת לוויינים ואיכון מקור שידור קרקעי באמצעות TDOA/FDOA. פותחה בשיתוף התעשייה האווירית, רפאל ואלתא.",
+  "why": "המשימה האקדמית הישראלית הראשונה של להקת ננו-לוויינים — הוכחת יכולת ישראלית בטיסת מבנה אוטונומית בחלל.",
+  "rakia": false,
+  "code": "",
+  "degree": "",
+  "credits": "",
+  "prereq": "",
+  "prereqIds": [],
+  "mandatory": "",
+  "status": "uncertain",
+  "statusNote": "אותר ואומת במחקר מקוון 8/2026"
+ },
+ {
+  "n": 358,
+  "inst": "הטכניון",
+  "fac": "הפקולטה לפיזיקה",
+  "type": "קורס",
+  "name": "אסטרופיסיקה וקוסמולוגיה (Astrophysics and Cosmology)",
+  "lead": "",
+  "lect": "",
+  "person": "",
+  "dom": "פיזיקה ואסטרופיזיקה / אסטרונומיה",
+  "doms": [
+   "פיזיקה ואסטרופיזיקה / אסטרונומיה"
+  ],
+  "url": "https://students.technion.ac.il/local/technionsearch/course/116354",
+  "notes": "אותר במחקר מקוון 8/2026; עמוד הקורס פעיל בקטלוג פורטל הסטודנטים my.technion (116354) כולל סילבוס מפורט",
+  "ok": true,
+  "src": "ours",
+  "year": null,
+  "core": "core",
+  "what": "קורס בחירה בפיזיקה הסוקר את מערכת השמש וכוכבי לכת חוץ-שמשיים, מבנה כוכבים והתפתחותם, ננסים לבנים, כוכבי נויטרונים וחורים שחורים, גלקסיות, חומר אפל, המפץ הגדול וחידת האנרגיה האפלה. מקנה תמונה רחבה של היקום ושל הפיזיקה שמאחוריו.",
+  "why": "קורס ליבה בהכשרת הדור הבא של אסטרופיזיקאים ומדעני חלל בישראל.",
+  "rakia": false,
+  "code": "116354",
+  "degree": "תואר ראשון",
+  "credits": "",
+  "prereq": "",
+  "prereqIds": [],
+  "mandatory": "",
+  "status": "active",
+  "statusNote": "אותר ואומת במחקר מקוון 8/2026"
+ },
+ {
+  "n": 359,
+  "inst": "הטכניון",
+  "fac": "הפקולטה לפיזיקה",
+  "type": "קורס",
+  "name": "אסטרונומיה כללית (General Astronomy)",
+  "lead": "",
+  "lect": "",
+  "person": "",
+  "dom": "פיזיקה ואסטרופיזיקה / אסטרונומיה",
+  "doms": [
+   "פיזיקה ואסטרופיזיקה / אסטרונומיה"
+  ],
+  "url": "https://students.technion.ac.il/local/technionsearch/course/114110",
+  "notes": "אותר במחקר מקוון 8/2026; עמוד הקורס פעיל בקטלוג פורטל הסטודנטים my.technion (114110 - אסטרונומיה כללית)",
+  "ok": true,
+  "src": "ours",
+  "year": null,
+  "core": "core",
+  "what": "קורס מבוא לאסטרונומיה בפקולטה לפיזיקה, המציג את מערכת השמש, הכוכבים, הגלקסיות והמבנה הרחב של היקום. משמש שער כניסה לתחום האסטרונומיה עבור סטודנטים לתואר ראשון.",
+  "why": "מרחיב את בסיס הידע האסטרונומי בקרב סטודנטים ומזין את מסלולי האסטרופיזיקה וחקר החלל.",
+  "rakia": false,
+  "code": "114110",
+  "degree": "תואר ראשון",
+  "credits": "",
+  "prereq": "",
+  "prereqIds": [],
+  "mandatory": "",
+  "status": "active",
+  "statusNote": "אותר ואומת במחקר מקוון 8/2026"
+ },
+ {
+  "n": 360,
+  "inst": "אוניברסיטת בן-גוריון בנגב",
+  "fac": "הפקולטה למדעי הטבע / המחלקה לפיזיקה",
+  "type": "מרכז/מכון",
+  "name": "מרכז אילן רמון לנוער שוחר פיזיקה (Ilan Ramon Youth Physics Center)",
+  "lead": "",
+  "lect": "",
+  "person": "",
+  "dom": "פיזיקה ואסטרופיזיקה / אסטרונומיה",
+  "doms": [
+   "פיזיקה ואסטרופיזיקה / אסטרונומיה"
+  ],
+  "url": "https://www.bgu.ac.il/u/rector/jusidman/ilan-ramon/",
+  "notes": "אותר במחקר מקוון 8/2026; עמוד רשמי באתר BGU החדש (bgu.ac.il/u/rector/jusidman/ilan-ramon), ערכי ויקיפדיה בעברית ובאנגלית (Ilan Ramon Youth Physics Center), ועמוד אירועי שבוע החלל 2025 של האוניברסיטה (bgu.ac.il/events/space-week-2025) המתאר ערב פעילויות אסטרונומיה במרכז, כולל פלנטריום ותצפית בטלסקופים",
+  "ok": true,
+  "src": "ours",
+  "year": 2007,
+  "core": "core",
+  "what": "מרכז מדעי ומצפה כוכבים לנוער השוכן בבניין המחלקה לפיזיקה בקמפוס באר-שבע, על שם האסטרונאוט הישראלי הראשון אילן רמון. הוקם ב-2007 על ידי קרן רש\"י במסגרת תוכנית מדערום. המרכז מפעיל פלנטריום, טלסקופ רובוטי בקוטר 40 ס\"מ, טלסקופ שמש ומעבדות פיזיקה לתלמידי תיכון מהדרום. מתקיימות בו תצפיות שמיים, מחנות קיץ מדעיים ואירועי שבוע החלל הישראלי לקהל הרחב.",
+  "why": "המרכז מגדל את הדור הבא של מדעני ומהנדסי החלל בפריפריה הדרומית ומנגיש אסטרונומיה וחלל לנוער ולקהילה.",
+  "rakia": false,
+  "code": "",
+  "degree": "פתוח לכולם",
+  "credits": "",
+  "prereq": "",
+  "prereqIds": [],
+  "mandatory": "",
+  "status": "active",
+  "statusNote": "אותר ואומת במחקר מקוון 8/2026"
+ },
+ {
+  "n": 361,
+  "inst": "אוניברסיטת בן-גוריון בנגב",
+  "fac": "הפקולטה למדעי הטבע / המחלקה לפיזיקה",
+  "type": "מעבדה",
+  "name": "קבוצת המחקר של ברוסטיין (Brustein group)",
+  "lead": "",
+  "lect": "",
+  "person": "פרופ' רמי ברוסטיין (Ramy Brustein)",
+  "dom": "פיזיקה ואסטרופיזיקה / אסטרונומיה",
+  "doms": [
+   "פיזיקה ואסטרופיזיקה / אסטרונומיה"
+  ],
+  "url": "https://sites.physics.bgu.ac.il/ramyb/",
+  "notes": "אותר במחקר מקוון 8/2026; אתר הקבוצה הרשמי (sites.physics.bgu.ac.il/ramyb), ערך ויקיפדיה Ram Brustein (פרופסור במחלקה לפיזיקה ב-BGU, קתדרת איינשטיין), ופרופיל פעיל בפורטל המחקר CRIS של האוניברסיטה; מודעת פוסטדוק בקוסמולוגיה של BGU מונה אותו בין חברי הסגל הפעילים בתחום",
+  "ok": true,
+  "src": "ours",
+  "year": null,
+  "core": "core",
+  "what": "קבוצת מחקר תאורטית במחלקה לפיזיקה בראשות פרופ' רמי ברוסטיין, מחזיק הקתדרה על שם אלברט איינשטיין לפיזיקה עיונית. הקבוצה חוקרת קוסמולוגיה, חורים שחורים, גלי כבידה ותורת המיתרים, בממשק שבין תורת הכבידה לפיזיקת החלקיקים וליקום המוקדם.",
+  "why": "מחקר תאורטי בקוסמולוגיה, בחורים שחורים ובגלי כבידה מחזק את הבסיס המדעי של חקר היקום בישראל.",
+  "rakia": false,
+  "code": "",
+  "degree": "",
+  "credits": "",
+  "prereq": "",
+  "prereqIds": [],
+  "mandatory": "",
+  "status": "active",
+  "statusNote": "אותר ואומת במחקר מקוון 8/2026"
+ },
+ {
+  "n": 362,
+  "inst": "אוניברסיטת בן-גוריון בנגב",
+  "fac": "הפקולטה למדעי הרוח והחברה / המחלקה למדעי הסביבה, גאואינפורמטיקה ותכנון ערים",
+  "type": "תואר",
+  "name": "תואר שני במדעי הסביבה, גאואינפורמטיקה ותכנון ערים — התמחות טכנולוגיות מידע גיאוגרפיות",
+  "lead": "",
+  "lect": "",
+  "person": "",
+  "dom": "חישה מרחוק ולוויינים",
+  "doms": [
+   "חישה מרחוק ולוויינים"
+  ],
+  "url": "https://www.bgu.ac.il/welcome/ma/catalog/categories/geography-master/",
+  "notes": "אותר במחקר מקוון 8/2026; עמוד התואר השני בקטלוג הרישום הרשמי של האוניברסיטה (bgu.ac.il/welcome/ma/catalog/categories/geography-master) המפרט התמחות בטכנולוגיות מידע גיאוגרפיות הכוללת חישה מרחוק, ניתוח מרחבי, מחשוב ותכנות",
+  "ok": true,
+  "src": "ours",
+  "year": null,
+  "core": "core",
+  "what": "תוכנית לתואר שני במחלקה למדעי הסביבה, גאואינפורמטיקה ותכנון ערים, הכוללת התמחות בטכנולוגיות מידע גיאוגרפיות. ההתמחות מכשירה את הבוגרים בחישה מרחוק, ניתוח מרחבי, מיפוי דיגיטלי, מחשוב ותכנות. התוכנית משלבת מחקר יישומי בנתוני לוויין לניטור סביבתי, חקלאי ועירוני.",
+  "why": "מכשירה כוח אדם מתקדם בניתוח נתוני לוויין — תשתית אנושית מרכזית למגזר החישה מרחוק והגאואינפורמטיקה הישראלי.",
+  "rakia": false,
+  "code": "",
+  "degree": "תארים מתקדמים",
+  "credits": "",
+  "prereq": "",
+  "prereqIds": [],
+  "mandatory": "",
+  "status": "active",
+  "statusNote": "אותר ואומת במחקר מקוון 8/2026"
+ },
+ {
+  "n": 363,
+  "inst": "אוניברסיטת תל אביב",
+  "fac": "הפקולטה למדעים מדויקים ע\"ש סאקלר / ביה\"ס לסביבה ומדעי כדוה\"א ע\"ש פורטר — החוג לגאופיזיקה (מדעי כדור הארץ וכוכבי הלכת)",
+  "type": "תואר",
+  "name": "תואר שני (M.Sc.) בגאופיזיקה ומדעים פלנטריים (Geophysics and Planetary Sciences)",
+  "lead": "",
+  "lect": "",
+  "person": "",
+  "dom": "מדעי כדור הארץ והאטמוספירה",
+  "doms": [
+   "מדעי כדור הארץ והאטמוספירה"
+  ],
+  "url": "https://geosciences.tau.ac.il/msc",
+  "notes": "אותר במחקר מקוון 8/2026; עמוד 'תואר שני | החוג לגאופיזיקה' באתר geosciences.tau.ac.il/msc ועמוד הרישום go.tau.ac.il/he/exact/ma/geophysics; תיאור רשמי בתוצאות החיפוש: 'גאופיזיקה ומדעים פלנטריים היא תכנית לימודים ייחודית לתואר שני המתקיימת באוניברסיטת תל אביב בלבד', כולל תנאי הקבלה",
+  "ok": true,
+  "src": "ours",
+  "year": null,
+  "core": "core",
+  "what": "תוכנית מחקרית לתואר שני בגאופיזיקה ובמדעים פלנטריים, המתקיימת בישראל באוניברסיטת תל אביב בלבד. הסטודנטים חוקרים את כדור הארץ, האטמוספירה, השמש, כוכבי הלכת וירחיהם, אסטרואידים ושביטים, וכן את התווך הבין-פלנטרי שבו נעים לוויינים וחלליות. הלימודים משלבים קורסים מתקדמים ועבודת תזה מחקרית.",
+  "why": "מכשירה את דור החוקרים הבא במדעים פלנטריים ובסביבת החלל הקרובה — תשתית אקדמית ייחודית בישראל לחקר מערכת השמש ולמשימות חלל מדעיות.",
+  "rakia": false,
+  "code": "",
+  "degree": "תארים מתקדמים",
+  "credits": "",
+  "prereq": "תואר ראשון מדעי (B.Sc.) במדעי כדור הארץ (גאופיזיקה ומדעי האטמוספירה או מדעים פלנטריים), גיאולוגיה, מתמטיקה או מקצועות דומים",
+  "prereqIds": [],
+  "mandatory": "",
+  "status": "active",
+  "statusNote": "אותר ואומת במחקר מקוון 8/2026"
  }
 ]
