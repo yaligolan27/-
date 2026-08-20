@@ -1,10 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 70" role="img" aria-label="רקיע">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 78" role="img" aria-label="רקיע">
   <defs>
-    <linearGradient id="rg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7B4DD6"/><stop offset=".5" stop-color="#D6485F"/><stop offset="1" stop-color="#274B9F"/>
+    <linearGradient id="rk-a1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2C3A8C"/><stop offset=".45" stop-color="#B03A8C"/><stop offset="1" stop-color="#D8474F"/>
+    </linearGradient>
+    <linearGradient id="rk-a2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5A6BC0" stop-opacity=".8"/><stop offset="1" stop-color="#C05A7E" stop-opacity=".8"/>
     </linearGradient>
   </defs>
-  <path d="M22 34 A38 38 0 0 1 138 34" fill="none" stroke="url(#rg)" stroke-width="2.4" opacity=".85"/>
-  <path d="M34 40 A28 28 0 0 1 126 40" fill="none" stroke="url(#rg)" stroke-width="1.6" opacity=".55"/>
-  <text x="80" y="58" text-anchor="middle" font-family="Assistant,Arial" font-size="30" font-weight="800" fill="#25292E">רקיע</text>
+  <!-- sky arcs over the letters -->
+  <path d="M38 30 A52 52 0 0 1 132 30" fill="none" stroke="url(#rk-a1)" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M50 33 A38 38 0 0 1 120 33" fill="none" stroke="url(#rk-a2)" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M62 36 A24 24 0 0 1 108 36" fill="none" stroke="#8A9BD0" stroke-width="1.2" stroke-linecap="round" opacity=".65"/>
+  <!-- wordmark -->
+  <text x="85" y="66" text-anchor="middle" font-family="Assistant,'Segoe UI',Arial,sans-serif" font-size="36" font-weight="800" fill="#1B2A5E">רקיע</text>
 </svg>

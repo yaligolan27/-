@@ -1,12 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="מנהלת החלל">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 260" role="img" aria-label="מנהלת החלל">
   <defs>
-    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#4FA8DC"/><stop offset="1" stop-color="#1779B5"/>
+    <radialGradient id="hg-ocean" cx="38%" cy="32%" r="75%">
+      <stop offset="0" stop-color="#BFE0F5"/><stop offset=".55" stop-color="#9CC6EA"/><stop offset="1" stop-color="#6FA3D4"/>
+    </radialGradient>
+    <linearGradient id="hg-ringL" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#F2F5FA"/><stop offset="1" stop-color="#C9D2DE"/>
+    </linearGradient>
+    <linearGradient id="hg-ringD" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8E959F"/><stop offset="1" stop-color="#5F666E"/>
+    </linearGradient>
+    <linearGradient id="hg-rocket" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FAFBFC"/><stop offset=".52" stop-color="#EDEFF2"/><stop offset=".53" stop-color="#C9CDD3"/><stop offset="1" stop-color="#B7BCC4"/>
+    </linearGradient>
+    <linearGradient id="hg-base" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E8EAEE"/><stop offset=".5" stop-color="#D4D7DC"/><stop offset=".51" stop-color="#9A9EA6"/><stop offset="1" stop-color="#83878F"/>
     </linearGradient>
   </defs>
-  <circle cx="60" cy="52" r="34" fill="url(#g1)" opacity=".9"/>
-  <path d="M60 10 L67 82 L60 76 L53 82 Z" fill="#E8ECF2" stroke="#B9C2CF" stroke-width="1"/>
-  <ellipse cx="60" cy="52" rx="52" ry="16" fill="none" stroke="#8A93A5" stroke-width="3" transform="rotate(-24 60 52)" opacity=".75"/>
-  <ellipse cx="60" cy="52" rx="52" ry="16" fill="none" stroke="#C7CEDA" stroke-width="3" transform="rotate(24 60 52)" opacity=".75"/>
-  <text x="60" y="112" text-anchor="middle" font-family="Assistant,Arial" font-size="17" font-weight="800" fill="#25292E">מנהלת החלל</text>
+
+  <!-- globe -->
+  <circle cx="120" cy="105" r="78" fill="url(#hg-ocean)"/>
+  <!-- stylized continents -->
+  <g fill="#177E9C" opacity=".92">
+    <path d="M92 38c9-5 22-7 30-4l6 8-10 3-5 7-9-2-6 6 3 7-8 6-7-3-2-9 4-8z"/>
+    <path d="M74 66l9 2 6 8-3 8 7 5-2 9-9 4-2 9-8 3-8-9 1-11-5-8 5-12z"/>
+    <path d="M68 122l10-3 9 5 12-1 6 8-4 11-9 6-2 10-9-4-6-11-7-8z"/>
+    <path d="M150 52l12-3 12 5 8 10-5 8 6 9-3 10-11 6-9-3-4-10-8-6 2-14z"/>
+    <path d="M168 118l12 2 10 10-2 12-12 8-10-6 1-12z"/>
+    <path d="M118 150l10 4 4 9-8 8-11-3-2-9z"/>
+  </g>
+  <g fill="#BEE3F2" opacity=".85">
+    <path d="M138 84l7-2 6 5-2 7-8 2-5-6z"/>
+    <path d="M104 96l6 1 3 6-5 5-7-2-1-6z"/>
+  </g>
+
+  <!-- back ring (dark, lower-left to upper-right, passes behind rocket) -->
+  <g transform="rotate(-26 120 105)">
+    <path d="M120 62 a118 44 0 0 1 0 86 a118 44 0 0 1 0 -86 m0 12 a104 32 0 0 0 0 62 a104 32 0 0 0 0 -62" fill="none"/>
+    <ellipse cx="120" cy="105" rx="116" ry="42" fill="none" stroke="url(#hg-ringD)" stroke-width="12"/>
+  </g>
+  <!-- front ring (light) -->
+  <g transform="rotate(24 120 105)">
+    <ellipse cx="120" cy="105" rx="118" ry="40" fill="none" stroke="url(#hg-ringL)" stroke-width="13"/>
+  </g>
+
+  <!-- sparkle stars -->
+  <g fill="#D9E2EC" stroke="#9FB0C3" stroke-width="1">
+    <path d="M52 118 l6 14 14 6 -14 6 -6 14 -6 -14 -14 -6 14 -6z"/>
+  </g>
+  <g fill="#C3CFDD" stroke="#8E9FB3" stroke-width="1">
+    <path d="M186 112 l5 12 12 5 -12 5 -5 12 -5 -12 -12 -5 12 -5z"/>
+  </g>
+
+  <!-- rocket spire -->
+  <path d="M120 6 L134 178 L106 178 Z" fill="url(#hg-rocket)"/>
+  <path d="M120 6 L120 178" stroke="#AEB4BC" stroke-width=".8"/>
+  <!-- base -->
+  <path d="M120 150 L196 196 L44 196 Z" fill="url(#hg-base)"/>
+  <path d="M120 150 L120 196" stroke="#9FA4AC" stroke-width=".8"/>
+
+  <!-- wordmark -->
+  <text x="120" y="242" text-anchor="middle" font-family="Assistant,'Segoe UI',Arial,sans-serif" font-size="34" font-weight="800" fill="#1E2226">מנהלת החלל</text>
 </svg>
