@@ -151,8 +151,9 @@ def main(results_path):
     print('total entries now:', len(data))
     inst_new = sorted({r['inst'] for r in new_rows})
     print('institutions with new entries:', inst_new)
-    with open(os.path.join(HERE,'access_issues.txt'),'w',encoding='utf-8') as f:
-        f.write('\n'.join(access))
+    if access:
+        with open(os.path.join(HERE,'access_issues.txt'),'a',encoding='utf-8') as f:
+            f.write('\n'.join(access) + '\n')
     print('access issues logged:', len(access))
 
 if __name__ == '__main__':
