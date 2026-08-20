@@ -628,7 +628,20 @@ function importOverlay(e){
 }
 
 /* ---------- export (styled Excel + CSV) ---------- */
-function saveBlob(blob,fname){
+/* בתוך צפיין Artifact של claude.ai ההורדה עוברת דרך יכולת downloads; באתר רגיל — קישור הורדה רגיל */
+async function saveBlob(blob,fname){
+  if(window.claude&&window.claude.use){
+    let dl=null;
+    try{dl=await window.claude.use("downloads")}catch(e){}
+    if(dl){
+      try{await dl.save({filename:fname,data:blob})}
+      catch(err){
+        if(err&&err.code==="declined")return;
+        alert("סביבת התצוגה הזו לא מאפשרת שמירה בפורמט הזה. באתר המלא הייצוא עובד במלואו.");
+      }
+      return;
+    }
+  }
   const a=document.createElement("a");
   a.href=URL.createObjectURL(blob);a.download=fname;a.rel="noopener";
   document.body.appendChild(a);a.click();
@@ -637,6 +650,7 @@ function saveBlob(blob,fname){
 const XLS_TC={"מעבדה":"#1E6FC0","תואר":"#9A6410","קורס":"#058C63","מרכז/מכון":"#6C48BE","תוכנית מיוחדת":"#C13B6B"};
 const STATUS_TXT={active:"פעיל",closed:"נסגר",uncertain:"לבדיקה",unverified:"טרם אומת"};
 function exportXLS(){
+  if(window.claude&&window.claude.use)return csv(); // בצפיין Artifact פורמט xls אינו נתמך — CSV נפתח באקסל
   const list=filtered();
   const esc=s=>String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
   const rows=list.map((u,i)=>`<tr${i%2?' class="alt"':''}>
