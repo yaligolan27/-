@@ -432,7 +432,7 @@ function card(u){
   </div>`;
 }
 function tableView(list){
-  const rows=list.map(u=>`<tr><td><a href="#" data-n="${u.n}" style="color:inherit;text-decoration:none;font-weight:600">${bidi(u.name)}</a></td><td>${instShort(u.inst)}</td><td>${u.type}</td><td>${u.degree||"—"}</td><td>${statusTag(u)}</td><td class="ltr">${u.code||""}</td><td>${DOM_SHORT[u.doms[0]]||u.doms[0]}</td><td>${u.person||"—"}</td><td>${u.rakia?"🗂":""}</td><td><a href="${u.url}" target="_blank" rel="noopener">קישור ↗</a></td></tr>`).join("");
+  const rows=list.map(u=>`<tr><td><a href="#" data-n="${u.n}" style="color:inherit;text-decoration:none;font-weight:600">${bidi(u.name)}</a></td><td>${instShort(u.inst)}</td><td>${u.type}</td><td>${u.degree||"—"}</td><td>${statusTag(u)}</td><td class="ltr mono">${u.code||""}</td><td>${DOM_SHORT[u.doms[0]]||u.doms[0]}</td><td>${u.person||"—"}</td><td>${u.rakia?"🗂":""}</td><td><a href="${u.url}" target="_blank" rel="noopener">קישור ↗</a></td></tr>`).join("");
   document.getElementById("tablewrap").innerHTML=`<table><thead><tr><th>יחידה</th><th>מוסד</th><th>סוג</th><th>תואר</th><th>סטטוס</th><th>מס' קורס</th><th>תחום</th><th>חוקר/מרצה</th><th>רקיע</th><th>קישור</th></tr></thead><tbody>${rows}</tbody></table>`;
   document.querySelectorAll("#tablewrap [data-n]").forEach(a=>a.addEventListener("click",e=>{e.preventDefault();openDrawer(+a.dataset.n)}));
 }
@@ -492,7 +492,7 @@ function openDrawer(n){
   const prereqEntries=(u.prereqIds||[]).map(x=>byN.get(x)).filter(Boolean);
   const continuations=ALL.filter(x=>(x.prereqIds||[]).includes(u.n));
   const facts=[
-    u.code?["מס' קורס",`<span class="ltr">${u.code}</span>`]:null,
+    u.code?["מס' קורס",`<span class="ltr mono">${u.code}</span>`]:null,
     u.credits?["נ\"ז",u.credits]:null,
     u.degree?["קהל היעד",u.degree]:null,
     u.mandatory?["חובה/בחירה",u.mandatory]:null,
@@ -647,7 +647,7 @@ async function saveBlob(blob,fname){
   document.body.appendChild(a);a.click();
   setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},2500);
 }
-const XLS_TC={"מעבדה":"#1E6FC0","תואר":"#9A6410","קורס":"#058C63","מרכז/מכון":"#6C48BE","תוכנית מיוחדת":"#C13B6B"};
+const XLS_TC={"מעבדה":"#4166AE","תואר":"#AC5377","קורס":"#433A92","מרכז/מכון":"#765C93","תוכנית מיוחדת":"#C94046"};
 const STATUS_TXT={active:"פעיל",closed:"נסגר",uncertain:"לבדיקה",unverified:"טרם אומת"};
 function exportXLS(){
   if(window.claude&&window.claude.use)return csv(); // בצפיין Artifact פורמט xls אינו נתמך — CSV נפתח באקסל
