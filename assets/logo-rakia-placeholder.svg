@@ -1,16 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 78" role="img" aria-label="רקיע">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="120 230 960 600" role="img" aria-label="רקיע">
   <defs>
-    <linearGradient id="rk-a1" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2C3A8C"/><stop offset=".45" stop-color="#B03A8C"/><stop offset="1" stop-color="#D8474F"/>
-    </linearGradient>
-    <linearGradient id="rk-a2" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#5A6BC0" stop-opacity=".8"/><stop offset="1" stop-color="#C05A7E" stop-opacity=".8"/>
+    <linearGradient id="rkg" x1="0" y1="240" x2="0" y2="910" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#433A92"/><stop offset=".22" stop-color="#4166AE"/>
+      <stop offset=".45" stop-color="#765C93"/><stop offset=".62" stop-color="#AC5377"/>
+      <stop offset=".8" stop-color="#DF5255"/><stop offset="1" stop-color="#F6841F"/>
     </linearGradient>
   </defs>
-  <!-- sky arcs over the letters -->
-  <path d="M38 30 A52 52 0 0 1 132 30" fill="none" stroke="url(#rk-a1)" stroke-width="2.6" stroke-linecap="round"/>
-  <path d="M50 33 A38 38 0 0 1 120 33" fill="none" stroke="url(#rk-a2)" stroke-width="1.8" stroke-linecap="round"/>
-  <path d="M62 36 A24 24 0 0 1 108 36" fill="none" stroke="#8A9BD0" stroke-width="1.2" stroke-linecap="round" opacity=".65"/>
-  <!-- wordmark -->
-  <text x="85" y="66" text-anchor="middle" font-family="Assistant,'Segoe UI',Arial,sans-serif" font-size="36" font-weight="800" fill="#1B2A5E">רקיע</text>
+  <!-- טבעות בעלות נקודת השקה עליונה משותפת -->
+  <g fill="none" stroke="url(#rkg)" stroke-width="5">
+    <circle cx="600" cy="357" r="112"/>
+    <circle cx="600" cy="391" r="146"/>
+    <circle cx="600" cy="429" r="184"/>
+    <circle cx="600" cy="470" r="225"/>
+    <circle cx="600" cy="512" r="267"/>
+    <circle cx="600" cy="550" r="305"/>
+  </g>
+  <circle cx="300" cy="370" r="13" fill="#1A2340"/>
+  <!-- רקיע — אותיות מונוליניות גאומטריות -->
+  <g fill="none" stroke="#131C33" stroke-width="30" stroke-linecap="butt" stroke-linejoin="miter">
+    <path d="M898 566 L1032 566 Q1057 566 1057 592 L1057 696"/>
+    <path d="M702 566 L852 566 Q877 566 877 592 L877 692"/>
+    <path d="M716 628 L716 776"/>
+    <path d="M636 566 L636 642"/>
+    <path d="M556 558 L452 664 Q436 680 412 680 L228 680"/>
+    <path d="M340 560 L398 636"/>
+  </g>
+  <circle cx="648" cy="748" r="16" fill="#131C33"/>
 </svg>
