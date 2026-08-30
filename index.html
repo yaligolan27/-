@@ -97,13 +97,19 @@ header{padding:30px clamp(16px,4vw,48px) 0}
 .headtxt{flex:1 1 420px;min-width:280px}
 .brandcol{display:flex;flex-direction:column;align-items:center;gap:14px;padding-top:6px}
 .sclogo{width:min(190px,42vw);height:auto;color:var(--logo-word)}
-.logos{display:flex;align-items:center;gap:14px}
+.logos{display:flex;align-items:center;gap:16px}
 .logos img{height:76px;width:auto;max-width:160px;object-fit:contain}
-.logos img.rakia{height:64px}
+.logos img.rakia{height:60px}
+/* החלפת גרסת לוגו לפי ערכה: יום = נייבי, לילה = הקבצים הלבנים המקוריים */
+.logos img.only-night{display:none}
 @media (prefers-color-scheme: dark){
-  :root:not([data-theme="light"]) .logos img{background:#F2F6FB;border-radius:12px;padding:6px 9px}
+  :root:not([data-theme="light"]) .logos img.only-day{display:none}
+  :root:not([data-theme="light"]) .logos img.only-night{display:inline-block}
 }
-:root[data-theme="dark"] .logos img{background:#F2F6FB;border-radius:12px;padding:6px 9px}
+:root[data-theme="dark"] .logos img.only-day{display:none}
+:root[data-theme="dark"] .logos img.only-night{display:inline-block}
+:root[data-theme="light"] .logos img.only-day{display:inline-block}
+:root[data-theme="light"] .logos img.only-night{display:none}
 .eyebrow{font-family:var(--sc-display);font-weight:500;letter-spacing:.16em;font-size:11px;color:var(--ink3);text-transform:uppercase}
 h1{font-family:var(--sc-display);font-weight:800;font-size:clamp(28px,4.6vw,44px);line-height:1.08;margin:8px 0 8px;text-wrap:balance;letter-spacing:-.01em}
 .sub{color:var(--ink2);max-width:64ch;margin:0 0 20px;font-size:16.5px;font-weight:300}
@@ -313,8 +319,10 @@ footer{border-top:1px solid var(--line);color:var(--ink3);font-size:13px;padding
         <use href="#sc-spark" x="169" y="98" width="180.3" height="179.3" fill="url(#sc-grad)"/>
       </svg>
       <div class="logos">
-        <img class="halal" src="assets/logo-halal.png" alt="מנהלת החלל" onerror="this.onerror=null;this.src='assets/logo-halal-placeholder.svg'">
-        <img class="rakia" src="assets/logo-rakia.png" alt="רקיע" onerror="this.onerror=null;this.src='assets/logo-rakia-placeholder.svg'">
+        <img class="halal only-day" src="assets/logo-halal-day.svg" alt="מנהלת החלל">
+        <img class="halal only-night" src="assets/logo-halal-night.png" alt="מנהלת החלל">
+        <img class="rakia only-day" src="assets/logo-rakia-day.svg" alt="רקיע">
+        <img class="rakia only-night" src="assets/logo-rakia-night.png" alt="רקיע">
       </div>
     </div>
   </div>
